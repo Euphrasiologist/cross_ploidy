@@ -1,0 +1,1296 @@
+Species,Genus,Family,Order,Ploidy,Base,Chromosome_number,No_diff_ploidies
+Acaena anserinifolia,Acaena,Rosaceae,Rosales,2,21,42,1
+Acaena inermis,Acaena,Rosaceae,Rosales,2,21,42,1
+Acer campestre,Acer,Sapindaceae,Sapindales,2,13,26,1
+Achillea millefolium,Achillea,Asteraceae,Asterales,6,9,54,1
+Achillea ptarmica,Achillea,Asteraceae,Asterales,2,9,18,1
+Aconitum napellus,Aconitum,Ranunculaceae,Ranunculales,4,8,32,1
+Adoxa moschatellina,Adoxa,Adoxaceae,Dipsacales,4,9,36,1
+Agrimonia eupatoria,Agrimonia,Rosaceae,Rosales,2,14,28,1
+Agrimonia procera,Agrimonia,Rosaceae,Rosales,4,14,56,1
+Agrostis capillaris,Agrostis,Poaceae,Poales,4,7,28,1
+Agrostis curtisii,Agrostis,Poaceae,Poales,2,7,14,1
+Agrostis gigantea,Agrostis,Poaceae,Poales,6,7,42,1
+Agrostis rupestris,Agrostis,Poaceae,Poales,2,7,14,1
+Agrostis stolonifera,Agrostis,Poaceae,Poales,4,7,28,1
+Agrostis vinealis,Agrostis,Poaceae,Poales,"4, 8",7,"28, 56",2
+Aira caryophyllea,Aira,Poaceae,Poales,2,7,14,1
+Aira praecox,Aira,Poaceae,Poales,2,7,14,1
+Ajuga pyramidalis,Ajuga,Lamiaceae,Lamiales,4,8,32,1
+Ajuga reptans,Ajuga,Lamiaceae,Lamiales,4,8,32,1
+Alchemilla filicaulis,Alchemilla,Rosaceae,Rosales,"13 (-3), 13 (-1), 13, 13 (+1), 13 (+2), 14 (-4), 14 (-3), 19 (-2)",8,"101, 103, 104, 105, 106, 108, 109, 150",3
+Alisma lanceolatum,Alisma,Alismataceae,Alismatales,4,7,28,1
+Alisma plantago-aquatica,Alisma,Alismataceae,Alismatales,2,7,14,1
+Alliaria petiolata,Alliaria,Brassicaceae,Brassicales,4,9,36,1
+Allium ampeloprasum,Allium,Amaryllidaceae,Asparagales,"4, 6",8,"32, 48",2
+Allium oleraceum,Allium,Amaryllidaceae,Asparagales,5,8,40,1
+Allium schoenoprasum,Allium,Amaryllidaceae,Asparagales,2,8,16,1
+Allium scorodoprasum,Allium,Amaryllidaceae,Asparagales,2,8,16,1
+Allium ursinum,Allium,Amaryllidaceae,Asparagales,2,7,14,1
+Allium vineale,Allium,Amaryllidaceae,Asparagales,4,8,32,1
+Alnus glutinosa,Alnus,Betulaceae,Fagales,2,14,28,1
+Alnus incana,Alnus,Betulaceae,Fagales,2,14,28,1
+Alopecurus aequalis,Alopecurus,Poaceae,Poales,2,7,14,1
+Alopecurus alpinus,Alopecurus,Poaceae,Poales,"14 (+2), 16, 17 (-2)",7,"100, 112, 117",3
+Alopecurus bulbosus,Alopecurus,Poaceae,Poales,2,7,14,1
+Alopecurus geniculatus,Alopecurus,Poaceae,Poales,4,7,28,1
+Alopecurus myosuroides,Alopecurus,Poaceae,Poales,2,7,14,1
+Alopecurus pratensis,Alopecurus,Poaceae,Poales,4,7,28,1
+Amaranthus powellii,Amaranthus,Amaranthaceae,Caryophyllales,2,16,32,1
+Ammophila arenaria,Ammophila,Poaceae,Poales,4,7,28,1
+Anacamptis laxiflora,Anacamptis,Orchidaceae,Asparagales,2,18,36,1
+Anacamptis morio,Anacamptis,Orchidaceae,Asparagales,2,18,36,1
+Anagallis arvensis,Anagallis,Primulaceae,Ericales,4,10,40,1
+Anagallis tenella,Anagallis,Primulaceae,Ericales,2,10,22,1
+Anchusa ochroleuca,Anchusa,Boraginaceae,Boraginales,3,8,24,1
+Anchusa officinalis,Anchusa,Boraginaceae,Boraginales,2,8,16,1
+Anemone nemorosa,Anemone,Ranunculaceae,Ranunculales,4,8,"30, 32",1
+Anemone pulsatilla,Anemone,Ranunculaceae,Ranunculales,4,8,32,1
+Anthemis arvensis,Anthemis,Asteraceae,Asterales,2,9,18,1
+Anthemis cotula,Anthemis,Asteraceae,Asterales,2,9,18,1
+Anthoxanthum odoratum,Anthoxanthum,Poaceae,Poales,4,5,20,1
+Anthriscus caucalis,Anthriscus,Apiaceae,Apiales,2,8,14,1
+Anthriscus sylvestris,Anthriscus,Apiaceae,Apiales,2,8,16,1
+Anthyllis vulneraria,Anthyllis,Fabaceae,Fabales,2,6,12,1
+Apera interrupta,Apera,Poaceae,Poales,2,7,14,1
+Apera spica-venti,Apera,Poaceae,Poales,2,7,14,1
+Aphanes arvensis,Aphanes,Rosaceae,Rosales,6,8,48,1
+Aphanes australis,Aphanes,Rosaceae,Rosales,2,8,16,1
+Apium graveolens,Apium,Apiaceae,Apiales,2,11,22,1
+Apium inundatum,Apium,Apiaceae,Apiales,2,11,22,1
+Apium nodiflorum,Apium,Apiaceae,Apiales,2,11,"20, 22",1
+Apium repens,Apium,Apiaceae,Apiales,2,11,22,1
+Aquilegia vulgaris,Aquilegia,Ranunculaceae,Ranunculales,2,7,14,1
+Arabidopsis lyrata,Arabidopsis,Brassicaceae,Brassicales,2,8,16,1
+Arabis alpina,Arabis,Brassicaceae,Brassicales,2,8,16,1
+Arabis hirsuta,Arabis,Brassicaceae,Brassicales,4,8,32,1
+Arabis scabra,Arabis,Brassicaceae,Brassicales,2,8,16,1
+Arctium lappa,Arctium,Asteraceae,Asterales,2,18,36,1
+Arctium minus,Arctium,Asteraceae,Asterales,2,18,36,1
+Arctium nemorosum,Arctium,Asteraceae,Asterales,2,18,36,1
+Arenaria serpyllifolia,Arenaria,Caryophyllaceae,Caryophyllales,"2, 4, 4 (+4)",10,"20, 40, 44",2
+Armeria arenaria,Armeria,Plumbaginaceae,Caryophyllales,2,9,18,1
+Armeria maritima,Armeria,Plumbaginaceae,Caryophyllales,2,9,18,1
+Arrhenatherum elatius,Arrhenatherum,Poaceae,Poales,4,7,28,1
+Artemisia absinthium,Artemisia,Asteraceae,Asterales,2,9,18,1
+Artemisia maritima,Artemisia,Asteraceae,Asterales,6,9,54,1
+Artemisia norvegica,Artemisia,Asteraceae,Asterales,2,9,18,1
+Artemisia verlotiorum,Artemisia,Asteraceae,Asterales,6,9,"50, 52",1
+Artemisia vulgaris,Artemisia,Asteraceae,Asterales,2,8,16,1
+Arum maculatum,Arum,Araceae,Alismatales,"4, 6",14,"56, 84",2
+Asparagus officinalis,Asparagus,Asparagaceae,Asparagales,2,10,20,1
+Asperula cynanchica,Asperula,Rubiaceae,Gentianales,4,10,40,1
+Aster tripolium,Aster,Asteraceae,Asterales,2,9,18,1
+Astilbe japonica,Astilbe,Saxifragaceae,Saxifragales,2,7,14,1
+Astilbe rubra,Astilbe,Saxifragaceae,Saxifragales,2,7,14,1
+Astragalus danicus,Astragalus,Fabaceae,Fabales,2,8,16,1
+Astragalus glycyphyllos,Astragalus,Fabaceae,Fabales,2,8,16,1
+Atriplex glabriuscula,Atriplex,Amaranthaceae,Caryophyllales,2,9,18,1
+Atriplex laciniata,Atriplex,Amaranthaceae,Caryophyllales,2,9,18,1
+Atriplex littoralis,Atriplex,Amaranthaceae,Caryophyllales,2,9,18,1
+Atriplex longipes,Atriplex,Amaranthaceae,Caryophyllales,2,9,18,1
+Atriplex nudicaulis,Atriplex,Amaranthaceae,Caryophyllales,2,9,18,1
+Atriplex patula,Atriplex,Amaranthaceae,Caryophyllales,4,9,36,1
+Atriplex portulacoides,Atriplex,Amaranthaceae,Caryophyllales,4,9,36,1
+Atriplex prostrata,Atriplex,Amaranthaceae,Caryophyllales,2,9,18,1
+Atropa belladonna,Atropa,Solanaceae,Solanales,6,12,72,1
+Avena fatua,Avena,Poaceae,Poales,6,7,42,1
+Avena sativa,Avena,Poaceae,Poales,6,7,42,1
+Bartsia alpina,Bartsia,Orobanchaceae,Lamiales,2,12,24,1
+Bellis perennis,Bellis,Asteraceae,Asterales,2,9,"16, 18",1
+Bergenia ciliata,Bergenia,Saxifragaceae,Saxifragales,2,17,34,1
+Bergenia crassifolia,Bergenia,Saxifragaceae,Saxifragales,2,17,34,1
+Beta vulgaris,Beta,Amaranthaceae,Caryophyllales,2,9,18,1
+Betula nana,Betula,Betulaceae,Fagales,2,14,28,1
+Betula pendula,Betula,Betulaceae,Fagales,2,14,"27, 28",1
+Betula pubescens,Betula,Betulaceae,Fagales,4,14,56,1
+Blackstonia perfoliata,Blackstonia,Gentianaceae,Gentianales,"10, 11",4,"40, 44",2
+Brachypodium distachyon,Brachypodium,Poaceae,Poales,2,7,14,1
+Brachypodium pinnatum,Brachypodium,Poaceae,Poales,"2 (+4), 4",7,"18, 28",2
+Brassica nigra,Brassica,Brassicaceae,Brassicales,2,8,16,1
+Brassica oleracea,Brassica,Brassicaceae,Brassicales,2,9,18,1
+Brassica rapa,Brassica,Brassicaceae,Brassicales,2,10,20,1
+Briza media,Briza,Poaceae,Poales,2,7,14,1
+Briza minor,Briza,Poaceae,Poales,2,5,10,1
+Bromus benekenii,Bromus,Poaceae,Poales,4,7,28,1
+Bromus commutatus,Bromus,Poaceae,Poales,4,7,28,1
+Bromus hordeaceus,Bromus,Poaceae,Poales,4,7,28,1
+Bromus interruptus,Bromus,Poaceae,Poales,4,7,28,1
+Bromus lepidus,Bromus,Poaceae,Poales,4,7,28,1
+Bromus racemosus,Bromus,Poaceae,Poales,4,7,28,1
+Bromus ramosus,Bromus,Poaceae,Poales,6,7,42,1
+Bromus secalinus,Bromus,Poaceae,Poales,4,7,28,1
+Bryonia cretica,Bryonia,Cucurbitaceae,Cucurbitales,2,10,20,1
+Bryonia dioica,Bryonia,Cucurbitaceae,Cucurbitales,2,10,20,1
+Buddleja davidii,Buddleja,Scrophulariaceae,Lamiales,4,19,76,1
+Buddleja globosa,Buddleja,Scrophulariaceae,Lamiales,2,19,38,1
+Butomus umbellatus,Butomus,Butomaceae,Alismatales,3,13,39,1
+Buxus sempervirens,Buxus,Buxaceae,Buxales,2,14,28,1
+Calamagrostis canescens,Calamagrostis,Poaceae,Poales,4,7,28,1
+Calamagrostis epigejos,Calamagrostis,Poaceae,Poales,4,7,28,1
+Calamagrostis stricta,Calamagrostis,Poaceae,Poales,4,7,28,1
+Callitriche brutia,Callitriche,Plantaginaceae,Lamiales,7,4,28,1
+Callitriche hermaphroditica,Callitriche,Plantaginaceae,Lamiales,2,3,6,1
+Callitriche obtusangula,Callitriche,Plantaginaceae,Lamiales,2,5,10,1
+Callitriche platycarpa,Callitriche,Plantaginaceae,Lamiales,4,5,20,1
+Callitriche stagnalis,Callitriche,Plantaginaceae,Lamiales,2,5,10,1
+Callitriche truncata,Callitriche,Plantaginaceae,Lamiales,2,3,6,1
+Caltha palustris,Caltha,Ranunculaceae,Ranunculales,"6, 7 (-4), 7 (-2), 7 (-1), 7, 8, 9, 10",8,"48, 52, 54, 55, 56, 64, 72, 80",5
+Calystegia pulchra,Calystegia,Convolvulaceae,Solanales,2,11,22,1
+Calystegia sepium,Calystegia,Convolvulaceae,Solanales,2,11,22,1
+Calystegia silvatica,Calystegia,Convolvulaceae,Solanales,2,11,22,1
+Calystegia soldanella,Calystegia,Convolvulaceae,Solanales,2,11,22,1
+Campanula glomerata,Campanula,Campanulaceae,Asterales,3,10,30,1
+Campanula patula,Campanula,Campanulaceae,Asterales,2,10,20,1
+Campanula rotundifolia,Campanula,Campanulaceae,Asterales,"2, 4, 5, 5 (+3), 6",17,"34, 68, 85, 88, 102",4
+Campanula trachelium,Campanula,Campanulaceae,Asterales,2,34,34,1
+Capsella bursa-pastoris,Capsella,Brassicaceae,Brassicales,"2, 4",8,"16, 32",2
+Capsella rubella,Capsella,Brassicaceae,Brassicales,2,8,16,1
+Cardamine amara,Cardamine,Brassicaceae,Brassicales,2,8,16,1
+Cardamine flexuosa,Cardamine,Brassicaceae,Brassicales,4,8,"30, 32",1
+Cardamine hirsuta,Cardamine,Brassicaceae,Brassicales,2,8,16,1
+Cardamine impatiens,Cardamine,Brassicaceae,Brassicales,2,8,16,1
+Cardamine pratensis,Cardamine,Brassicaceae,Brassicales,"4 (-2), 4, 5 (-2), 7, 7 (+1), 7 (+2), 8, 9",8,"30, 32, 38, 56, 57, 58, 64, 72",5
+Carduus acanthoides,Carduus,Asteraceae,Asterales,2,8,16,1
+Carduus crispus,Carduus,Asteraceae,Asterales,2,8,16,1
+Carduus nutans,Carduus,Asteraceae,Asterales,2,8,16,1
+Carex acuta,Carex,Cyperaceae,Poales,2,?,"82, 83, 84",1
+Carex acutiformis,Carex,Cyperaceae,Poales,2,38,38,1
+Carex aquatilis,Carex,Cyperaceae,Poales,2,?,"76, 77",1
+Carex bigelowii,Carex,Cyperaceae,Poales,2,34,"68, 69, 70, 71",1
+Carex digitata,Carex,Cyperaceae,Poales,2,?,"48, 50",1
+Carex elata,Carex,Cyperaceae,Poales,2,?,"74, 75, 76",1
+Carex ericetorum,Carex,Cyperaceae,Poales,2,15,30,1
+Carex extensa,Carex,Cyperaceae,Poales,2,30,60,1
+Carex flacca,Carex,Cyperaceae,Poales,2,38,76,1
+Carex flava,Carex,Cyperaceae,Poales,2,30,60,1
+Carex hirta,Carex,Cyperaceae,Poales,2,56,112,1
+Carex hostiana,Carex,Cyperaceae,Poales,2,?,56,1
+Carex humilis,Carex,Cyperaceae,Poales,2,18,36,1
+Carex laevigata,Carex,Cyperaceae,Poales,2,?,"71, 72",1
+Carex nigra,Carex,Cyperaceae,Poales,2,?,"83, 84, 85",1
+Carex pseudocyperus,Carex,Cyperaceae,Poales,2,33,66,1
+Carex punctata,Carex,Cyperaceae,Poales,2,34,68,1
+Carex remota,Carex,Cyperaceae,Poales,2,?,"60, 62",1
+Carex strigosa,Carex,Cyperaceae,Poales,2,33,66,1
+Carex viridula,Carex,Cyperaceae,Poales,2,34,68,1
+Carlina vulgaris,Carlina,Asteraceae,Asterales,2,10,20,1
+Carum carvi,Carum,Apiaceae,Apiales,2,10,20,1
+Carum verticillatum,Carum,Apiaceae,Apiales,2,9,18,1
+Catapodium marinum,Catapodium,Poaceae,Poales,4,7,28,1
+Catapodium rigidum,Catapodium,Poaceae,Poales,2,7,14,1
+Centaurea calcitrapa,Centaurea,Asteraceae,Asterales,2,10,20,1
+Centaurea debeauxii,Centaurea,Asteraceae,Asterales,4,11,44,1
+Centaurea jacea,Centaurea,Asteraceae,Asterales,4,11,44,1
+Centaurea nigra,Centaurea,Asteraceae,Asterales,"2, 4",11,"22, 44",2
+Centaurea scabiosa,Centaurea,Asteraceae,Asterales,2,10,"14, 20",1
+Centaurium erythraea,Centaurium,Gentianaceae,Gentianales,4,10,40,1
+Centaurium littorale,Centaurium,Gentianaceae,Gentianales,"4 (-2), 4, 6 (-4)",10,"38, 40, 56",2
+Centaurium pulchellum,Centaurium,Gentianaceae,Gentianales,4,9,"34, 36",1
+Centaurium scilloides,Centaurium,Gentianaceae,Gentianales,2,10,20,1
+Cerastium alpinum,Cerastium,Caryophyllaceae,Caryophyllales,"4, 6",18,"72, 108",2
+Cerastium arvense,Cerastium,Caryophyllaceae,Caryophyllales,4,18,72,1
+Cerastium cerastoides,Cerastium,Caryophyllaceae,Caryophyllales,2,18,38,1
+Cerastium nigrescens,Cerastium,Caryophyllaceae,Caryophyllales,"4, 6",18,"72, 108",2
+Cerastium tomentosum,Cerastium,Caryophyllaceae,Caryophyllales,4,18,72,1
+Chaenomeles japonica,Chaenomeles,Rosaceae,Rosales,2,17,34,1
+Chaenomeles speciosa,Chaenomeles,Rosaceae,Rosales,2,17,34,1
+Chaenorhinum minus,Chaenorhinum,Plantaginaceae,Lamiales,2,7,14,1
+Chamaemelum nobile,Chamaemelum,Asteraceae,Asterales,2,9,18,1
+Chamerion angustifolium,Chamerion,Onagraceae,Myrtales,2,18,36,1
+Chelidonium majus,Chelidonium,Papaveraceae,Ranunculales,2,6,12,1
+Chenopodium album,Chenopodium,Amaranthaceae,Caryophyllales,"2, 6",9,"18, 54",2
+Chenopodium berlandieri,Chenopodium,Amaranthaceae,Caryophyllales,4,9,36,1
+Chenopodium bonus-henricus,Chenopodium,Amaranthaceae,Caryophyllales,4,9,36,1
+Chenopodium chenopodioides,Chenopodium,Amaranthaceae,Caryophyllales,2,9,18,1
+Chenopodium ficifolium,Chenopodium,Amaranthaceae,Caryophyllales,2,9,18,1
+Chenopodium glaucum,Chenopodium,Amaranthaceae,Caryophyllales,2,9,18,1
+Chenopodium hybridum,Chenopodium,Amaranthaceae,Caryophyllales,2,9,18,1
+Chenopodium murale,Chenopodium,Amaranthaceae,Caryophyllales,2,9,18,1
+Chenopodium opulifolium,Chenopodium,Amaranthaceae,Caryophyllales,6,9,54,1
+Chenopodium polyspermum,Chenopodium,Amaranthaceae,Caryophyllales,2,9,18,1
+Chenopodium rubrum,Chenopodium,Amaranthaceae,Caryophyllales,4,9,36,1
+Chenopodium urbicum,Chenopodium,Amaranthaceae,Caryophyllales,4,9,36,1
+Chenopodium vulvaria,Chenopodium,Amaranthaceae,Caryophyllales,2,9,18,1
+Circaea alpina,Circaea,Onagraceae,Myrtales,2,11,22,1
+Circaea lutetiana,Circaea,Onagraceae,Myrtales,2,11,22,1
+Cirsium acaule,Cirsium,Asteraceae,Asterales,2,17,34,1
+Cirsium arvense,Cirsium,Asteraceae,Asterales,2,17,34,1
+Cirsium dissectum,Cirsium,Asteraceae,Asterales,2,17,34,1
+Cirsium eriophorum,Cirsium,Asteraceae,Asterales,2,17,34,1
+Cirsium heterophyllum,Cirsium,Asteraceae,Asterales,2,17,34,1
+Cirsium palustre,Cirsium,Asteraceae,Asterales,2,17,34,1
+Cirsium tuberosum,Cirsium,Asteraceae,Asterales,2,17,34,1
+Cirsium vulgare,Cirsium,Asteraceae,Asterales,4,17,68,1
+Clematis vitalba,Clematis,Ranunculaceae,Ranunculales,2,8,16,1
+Clinopodium nepeta,Clinopodium,Lamiaceae,Lamiales,"4, 6",12,"48, 72",2
+Cochlearia anglica,Cochlearia,Brassicaceae,Brassicales,6,6,"36, 37",1
+Cochlearia danica,Cochlearia,Brassicaceae,Brassicales,6,7,42,1
+Cochlearia groenlandica,Cochlearia,Brassicaceae,Brassicales,2,7,14,1
+Cochlearia officinalis,Cochlearia,Brassicaceae,Brassicales,"2, 4, 4 (+2)",6,"12,24,26",2
+Cochlearia pyrenaica,Cochlearia,Brassicaceae,Brassicales,"2, 4",6,"12,24",2
+Cochlearia scotica,Cochlearia,Brassicaceae,Brassicales,4,7,"24, 25, 26, 27",1
+Coincya monensis,Coincya,Brassicaceae,Brassicales,6,8,48,1
+Comarum palustre,Comarum,Rosaceae,Rosales,"5, 6 (-2), 9 (+1)",7,"35, 40, 64",3
+Conyza sumatrensis,Conyza,Asteraceae,Asterales,6,9,54,1
+Cornus sanguinea,Cornus,Cornaceae,Cornales,2,11,22,1
+Corrigiola litoralis,Corrigiola,Molluginaceae,Caryophyllales,2,9,"16, 18",1
+Corylus avellana,Corylus,Betulaceae,Fagales,2,11,22,1
+Corylus maxima,Corylus,Betulaceae,Fagales,2,11,22,1
+Corynephorus canescens,Corynephorus,Poaceae,Poales,2,7,14,1
+Cotoneaster cambricus,Cotoneaster,Rosaceae,Rosales,8,8,68,1
+Cotoneaster conspicuus,Cotoneaster,Rosaceae,Rosales,2,17,34,1
+Cotoneaster dammeri,Cotoneaster,Rosaceae,Rosales,2,17,34,1
+Cotoneaster frigidus,Cotoneaster,Rosaceae,Rosales,2,17,34,1
+Cotoneaster salicifolius,Cotoneaster,Rosaceae,Rosales,2,17,34,1
+Crambe maritima,Crambe,Brassicaceae,Brassicales,4,15,60,1
+Crataegus heterophylla,Crataegus,Rosaceae,Rosales,2,17,34,1
+Crataegus laevigata,Crataegus,Rosaceae,Rosales,2,17,34,1
+Crataegus monogyna,Crataegus,Rosaceae,Rosales,2,17,34,1
+Crataegus rhipidophylla,Crataegus,Rosaceae,Rosales,4,17,68,1
+Crepis biennis,Crepis,Asteraceae,Asterales,"6 (+1), 8",5,"31, 40",2
+Crepis capillaris,Crepis,Asteraceae,Asterales,2,3,6,1
+Crepis foetida,Crepis,Asteraceae,Asterales,2,5,10,1
+Crepis paludosa,Crepis,Asteraceae,Asterales,2,6,12,1
+Crithmum maritimum,Crithmum,Apiaceae,Apiales,2,10,20,1
+Crocus tommasinianus,Crocus,Iridaceae,Asparagales,4,4,16,1
+Cruciata laevipes,Cruciata,Rubiaceae,Gentianales,2,11,22,1
+Cynodon dactylon,Cynodon,Poaceae,Poales,4,9,36,1
+Cynosurus cristatus,Cynosurus,Poaceae,Poales,2,7,14,1
+Cyperus fuscus,Cyperus,Cyperaceae,Poales,3,13,36,1
+Cytisus scoparius,Cytisus,Fabaceae,Fabales,4,12,"46, 48",1
+Dactylis glomerata,Dactylis,Poaceae,Poales,4,7,28,1
+Dactylorhiza fuchsii,Dactylorhiza,Orchidaceae,Asparagales,2,20,40,1
+Dactylorhiza incarnata,Dactylorhiza,Orchidaceae,Asparagales,"2, 4",20,"40, 80",2
+Dactylorhiza majalis,Dactylorhiza,Orchidaceae,Asparagales,4,20,80,1
+Dactylorhiza praetermissa,Dactylorhiza,Orchidaceae,Asparagales,4,20,80,1
+Dactylorhiza purpurella,Dactylorhiza,Orchidaceae,Asparagales,4,20,80,1
+Dactylorhiza traunsteineri,Dactylorhiza,Orchidaceae,Asparagales,"2, 4",20,"40, 80",2
+Dactylorhiza viridis,Dactylorhiza,Orchidaceae,Asparagales,2,20,40,1
+Danthonia decumbens,Danthonia,Poaceae,Poales,"4, 14 (-2)",9,"36, 124",2
+Daphne laureola,Daphne,Thymelaeaceae,Malvales,2,9,18,1
+Daphne mezereum,Daphne,Thymelaeaceae,Malvales,2,9,18,1
+Dasiphora fruticosa,Dasiphora,Rosaceae,Rosales,4,7,28,1
+Daucus carota,Daucus,Apiaceae,Apiales,2,9,18,1
+Deschampsia cespitosa,Deschampsia,Poaceae,Poales,"2, 2 (+6), 3 (-5), 3 (-3), 3 (-2), 3 (-1), 3, 3 (+5), 4 (-3), 4, 4 (+4)",13,"26, 32, 34, 36, 37, 38, 39, 44, 49, 52, 56",3
+Deschampsia flexuosa,Deschampsia,Poaceae,Poales,"2, 4",7,"14, 28",2
+Deschampsia setacea,Deschampsia,Poaceae,Poales,2,7,14,1
+Dianthus armeria,Dianthus,Caryophyllaceae,Caryophyllales,2,15,30,1
+Dianthus caryophyllus,Dianthus,Caryophyllaceae,Caryophyllales,2,15,30,1
+Dianthus deltoides,Dianthus,Caryophyllaceae,Caryophyllales,2,15,30,1
+Dianthus gratianopolitanus,Dianthus,Caryophyllaceae,Caryophyllales,6,15,90,1
+Dianthus hyssopifolius,Dianthus,Caryophyllaceae,Caryophyllales,4,15,60,1
+Dianthus plumarius,Dianthus,Caryophyllaceae,Caryophyllales,6,15,90,1
+Digitalis purpurea,Digitalis,Plantaginaceae,Lamiales,2,24,56,1
+Dipsacus fullonum,Dipsacus,Caprifoliaceae,Dipsacales,2,9,18,1
+Dipsacus pilosus,Dipsacus,Caprifoliaceae,Dipsacales,2,9,18,1
+Dipsacus sativus,Dipsacus,Caprifoliaceae,Dipsacales,2,9,18,1
+Doronicum pardalianches,Doronicum,Asteraceae,Asterales,2,30,60,1
+Doronicum plantagineum,Doronicum,Asteraceae,Asterales,4,30,120,1
+Draba aizoides,Draba,Brassicaceae,Brassicales,2,8,16,1
+Draba incana,Draba,Brassicaceae,Brassicales,4,8,32,1
+Drosera anglica,Drosera,Droseraceae,Caryophyllales,4,10,40,1
+Drosera intermedia,Drosera,Droseraceae,Caryophyllales,2,10,20,1
+Drosera rotundifolia,Drosera,Droseraceae,Caryophyllales,2,10,20,1
+Dryas octopetala,Dryas,Rosaceae,Rosales,2,9,18,1
+Dysphania pumilio,Dysphania,Amaranthaceae,Caryophyllales,2,9,18,1
+Echium vulgare,Echium,Boraginaceae,Boraginales,4,8,32,1
+Elaeagnus pungens,Elaeagnus,Elaeagnaceae,Rosales,2,14,28,1
+Eleocharis acicularis,Eleocharis,Cyperaceae,Poales,2,10,20,1
+Eleocharis multicaulis,Eleocharis,Cyperaceae,Poales,2,10,20,1
+Eleocharis palustris,Eleocharis,Cyperaceae,Poales,"2, 3 (+3), 5",8,"16, 27, 40",3
+Eleocharis quinqueflora,Eleocharis,Cyperaceae,Poales,2,10,20,1
+Eleocharis uniglumis,Eleocharis,Cyperaceae,Poales,"4, 4 (+3), 5 (-4), 5 (-3), 5",10,"40, 43, 46, 47, 50",2
+Elymus athericus,Elymus,Poaceae,Poales,6,7,42,1
+Elymus caninus,Elymus,Poaceae,Poales,4,7,28,1
+Elymus farctus,Elymus,Poaceae,Poales,4,7,28,1
+Elymus pycnanthus,Elymus,Poaceae,Poales,"5, 6",7,"35, 42",2
+Elymus repens,Elymus,Poaceae,Poales,6,7,42,1
+Empetrum nigrum,Empetrum,Ericaceae,Ericales,2,13,26,1
+Epilobium alsinifolium,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium anagallidifolium,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium angustifolium,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium brunnescens,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium ciliatum,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium hirsutum,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium lanceolatum,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium montanum,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium obscurum,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium palustre,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium parviflorum,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium pedunculare,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium roseum,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epilobium tetragonum,Epilobium,Onagraceae,Myrtales,2,18,36,1
+Epipactis helleborine,Epipactis,Orchidaceae,Asparagales,4,10,40,1
+Epipactis purpurata,Epipactis,Orchidaceae,Asparagales,4,10,40,1
+Erica ciliaris,Erica,Ericaceae,Ericales,2,12,24,1
+Erica cinerea,Erica,Ericaceae,Ericales,2,12,24,1
+Erica erigena,Erica,Ericaceae,Ericales,2,12,24,1
+Erica herbacea,Erica,Ericaceae,Ericales,2,12,24,1
+Erica mackaiana,Erica,Ericaceae,Ericales,2,12,24,1
+Erica tetralix,Erica,Ericaceae,Ericales,2,12,24,1
+Erica vagans,Erica,Ericaceae,Ericales,2,12,24,1
+Erigeron acer,Erigeron,Asteraceae,Asterales,2,9,18,1
+Erigeron acris,Erigeron,Asteraceae,Asterales,2,9,18,1
+Erigeron borealis,Erigeron,Asteraceae,Asterales,2,9,18,1
+Erigeron canadensis,Erigeron,Asteraceae,Asterales,2,9,18,1
+Erigeron floribundus,Erigeron,Asteraceae,Asterales,6,9,54,1
+Eriocaulon aquaticum,Eriocaulon,Eriocaulaceae,Poales,8,8,64,1
+Eriophorum angustifolium,Eriophorum,Cyperaceae,Poales,2,29,58,1
+Eriophorum vaginatum,Eriophorum,Cyperaceae,Poales,2,29,58,1
+Erodium cicutarium,Erodium,Geraniaceae,Geraniales,"2, 4",10,"20, 40",2
+Erodium lebelii,Erodium,Geraniaceae,Geraniales,2,10,20,1
+Erodium maritimum,Erodium,Geraniaceae,Geraniales,2,20,20,1
+Erodium moschatum,Erodium,Geraniaceae,Geraniales,2,20,20,1
+Erophila verna,Erophila,Brassicaceae,Brassicales,"2, 4 (+2), 5 (-3), 5 (+1), 6, 6 (+2), 7 (+3)",7,"14, 30, 32, 36, 42, 44, 52",5
+Eryngium maritimum,Eryngium,Apiaceae,Apiales,2,8,16,1
+Euonymus europaeus,Euonymus,Celastraceae,Celastrales,2,16,32,1
+Eupatorium cannabinum,Eupatorium,Asteraceae,Asterales,2,10,20,1
+Euphorbia amygdaloides,Euphorbia,Euphorbiaceae,Malpighiales,2,10,20,1
+Euphorbia cyparissias,Euphorbia,Euphorbiaceae,Malpighiales,"2, 4",10,"20, 40",2
+Euphorbia exigua,Euphorbia,Euphorbiaceae,Malpighiales,4,6,24,1
+Euphorbia lathyris,Euphorbia,Euphorbiaceae,Malpighiales,2,10,20,1
+Euphorbia paralias,Euphorbia,Euphorbiaceae,Malpighiales,2,8,16,1
+Euphorbia peplus,Euphorbia,Euphorbiaceae,Malpighiales,2,11,16,1
+Euphorbia platyphyllos,Euphorbia,Euphorbiaceae,Malpighiales,3,10,30,1
+Euphorbia portlandica,Euphorbia,Euphorbiaceae,Malpighiales,"2, 5",8,"16, 40",2
+Euphrasia arctica,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia brevipila,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia cambrica,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia campbellae,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia confusa,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia foulaensis,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia frigida,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia heslop-harrisonii,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia marshallii,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia micrantha,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia montana,Euphrasia,Orobanchaceae,Lamiales,2,11,22,1
+Euphrasia nemorosa,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia occidentalis,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia officinalis,Euphrasia,Orobanchaceae,Lamiales,2,11,22,1
+Euphrasia ostenfeldii,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia pseudokerneri,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia rivularis,Euphrasia,Orobanchaceae,Lamiales,2,11,22,1
+Euphrasia rostkoviana,Euphrasia,Orobanchaceae,Lamiales,2,11,22,1
+Euphrasia rotundifolia,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia salisburgensis,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia scottica,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia stricta,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia tetraquetra,Euphrasia,Orobanchaceae,Lamiales,4,11,44,1
+Euphrasia vigursii,Euphrasia,Orobanchaceae,Lamiales,2,11,22,1
+Fagus sylvatica,Fagus,Fagaceae,Fagales,2,12,24,1
+Fallopia baldschuanica,Fallopia,Polygonaceae,Caryophyllales,2,10,20,1
+Fallopia convolvulus,Fallopia,Polygonaceae,Caryophyllales,4,10,40,1
+Fallopia dumetorum,Fallopia,Polygonaceae,Caryophyllales,2,10,20,1
+Festuca altissima,Festuca,Poaceae,Poales,2,7,14,1
+Festuca armoricana,Festuca,Poaceae,Poales,4,7,28,1
+Festuca capillata,Festuca,Poaceae,Poales,2,7,14,1
+Festuca filiformis,Festuca,Poaceae,Poales,"2, 4",7,"14, 28",2
+Festuca gigantea,Festuca,Poaceae,Poales,6,7,42,1
+Festuca huonii,Festuca,Poaceae,Poales,6,7,42,1
+Festuca juncifolia,Festuca,Poaceae,Poales,8,7,56,1
+Festuca lemanii,Festuca,Poaceae,Poales,6,7,42,1
+Festuca longifolia,Festuca,Poaceae,Poales,"2, 6",7,"14, 42",2
+Festuca ovina,Festuca,Poaceae,Poales,2,7,14,1
+Festuca pratensis,Festuca,Poaceae,Poales,2,7,14,1
+Festuca rubra,Festuca,Poaceae,Poales,"6 (-1), 6, 8, 9, 10",7,"41, 42, 56, 63, 70",4
+Festuca trachyphylla,Festuca,Poaceae,Poales,6,7,42,1
+Festuca vivipara,Festuca,Poaceae,Poales,"3, 4",7,"21, 28",2
+Ficaria verna,Ficaria,Ranunculaceae,Ranunculales,"2, 2 (+2), 3 (-4), 3 (-3), 3 (-2), 3, 4",8,"16, 18, 20, 21, 22, 24, 32",3
+Filago germanica,Filago,Asteraceae,Asterales,2,14,28,1
+Filipendula ulmaria,Filipendula,Rosaceae,Rosales,2,7,"14, 16",1
+Filipendula vulgaris,Filipendula,Rosaceae,Rosales,2,7,"14, 15",1
+Foeniculum vulgare,Foeniculum,Apiaceae,Apiales,2,11,22,1
+Fragaria vesca,Fragaria,Rosaceae,Rosales,2,7,14,1
+Frangula alnus,Frangula,Rhamnaceae,Rosales,2,10,20,1
+Fraxinus excelsior,Fraxinus,Oleaceae,Lamiales,2,23,"46, 48",1
+Fumaria bastardii,Fumaria,Papaveraceae,Ranunculales,6,8,48,1
+Fumaria capreolata,Fumaria,Papaveraceae,Ranunculales,8,8,64,1
+Fumaria martinii,Fumaria,Papaveraceae,Ranunculales,6,8,48,1
+Fumaria muralis,Fumaria,Papaveraceae,Ranunculales,6,8,48,1
+Fumaria occidentalis,Fumaria,Papaveraceae,Ranunculales,16,7,112,1
+Fumaria parviflora,Fumaria,Papaveraceae,Ranunculales,4,8,32,1
+Fumaria purpurea,Fumaria,Papaveraceae,Ranunculales,10,8,80,1
+Fumaria vaillantii,Fumaria,Papaveraceae,Ranunculales,4,8,32,1
+Gagea bohemica,Gagea,Liliaceae,Liliales,5,12,60,1
+Gagea lutea,Gagea,Liliaceae,Liliales,6,12,72,1
+Gagea serotina,Gagea,Liliaceae,Liliales,2,12,24,1
+Gaillardia aristata,Gaillardia,Asteraceae,Asterales,2,17,34,1
+Gaillardia pulchella,Gaillardia,Asteraceae,Asterales,2,17,34,1
+Galanthus elwesii,Galanthus,Amaryllidaceae,Asparagales,2,12,24,1
+Galanthus plicatus,Galanthus,Amaryllidaceae,Asparagales,2,12,24,1
+Galatella linosyris,Galatella,Asteraceae,Asterales,2,9,18,1
+Galeopsis bifida,Galeopsis,Lamiaceae,Lamiales,4,8,32,1
+Galeopsis speciosa,Galeopsis,Lamiaceae,Lamiales,2,8,16,1
+Galeopsis tetrahit,Galeopsis,Lamiaceae,Lamiales,4,8,32,1
+Galium album,Galium,Rubiaceae,Gentianales,4,11,44,1
+Galium aparine,Galium,Rubiaceae,Gentianales,6,11,66,1
+Galium boreale,Galium,Rubiaceae,Gentianales,4,11,44,1
+Galium debile,Galium,Rubiaceae,Gentianales,2,11,24,1
+Galium mollugo,Galium,Rubiaceae,Gentianales,4,11,44,1
+Galium odoratum,Galium,Rubiaceae,Gentianales,4,11,44,1
+Galium palustre,Galium,Rubiaceae,Gentianales,"2, 4",12,"24, 48",2
+Galium pumilum,Galium,Rubiaceae,Gentianales,8,11,"86, 88",1
+Galium saxatile,Galium,Rubiaceae,Gentianales,4,11,"43, 44",1
+Galium sterneri,Galium,Rubiaceae,Gentianales,"2, 3 (-1), 3, 4 (-2), 4 (-1), 4, 5",11,"22, 32, 33, 42, 43, 44, 55",4
+Galium uliginosum,Galium,Rubiaceae,Gentianales,"2, 8",11,"22, 88",2
+Galium verum,Galium,Rubiaceae,Gentianales,4,11,44,1
+Gaultheria mucronata,Gaultheria,Ericaceae,Ericales,6,11,66,1
+Gaultheria shallon,Gaultheria,Ericaceae,Ericales,8,11,88,1
+Genista pilosa,Genista,Fabaceae,Fabales,2,24,48,1
+Genista tinctoria,Genista,Fabaceae,Fabales,4,24,96,1
+Gentianella amarella,Gentianella,Gentianaceae,Gentianales,4,9,36,1
+Gentianella anglica,Gentianella,Gentianaceae,Gentianales,4,9,36,1
+Gentianella germanica,Gentianella,Gentianaceae,Gentianales,4,9,36,1
+Gentianella uliginosa,Gentianella,Gentianaceae,Gentianales,6,9,54,1
+Geranium columbinum,Geranium,Geraniaceae,Geraniales,2,9,18,1
+Geranium dissectum,Geranium,Geraniaceae,Geraniales,2,23,22,1
+Geranium endressii,Geranium,Geraniaceae,Geraniales,2,13,26,1
+Geranium ibericum,Geranium,Geraniaceae,Geraniales,4,14,56,1
+Geranium lucidum,Geranium,Geraniaceae,Geraniales,"2, 4",10,"20, 40",2
+Geranium molle,Geranium,Geraniaceae,Geraniales,2,13,26,1
+Geranium platypetalum,Geranium,Geraniaceae,Geraniales,2,14,28,1
+Geranium pratense,Geranium,Geraniaceae,Geraniales,2,14,28,1
+Geranium purpureum,Geranium,Geraniaceae,Geraniales,2,16,32,1
+Geranium pyrenaicum,Geranium,Geraniaceae,Geraniales,2,14,28,1
+Geranium robertianum,Geranium,Geraniaceae,Geraniales,"2, 4",16,"32, 64",2
+Geranium sanguineum,Geranium,Geraniaceae,Geraniales,4,23,84,1
+Geranium sylvaticum,Geranium,Geraniaceae,Geraniales,2,14,28,1
+Geranium versicolor,Geranium,Geraniaceae,Geraniales,2,13,26,1
+Geum macrophyllum,Geum,Rosaceae,Rosales,6,7,42,1
+Geum rivale,Geum,Rosaceae,Rosales,6,7,42,1
+Geum urbanum,Geum,Rosaceae,Rosales,6,7,42,1
+Glaucium flavum,Glaucium,Papaveraceae,Ranunculales,2,6,12,1
+Glyceria declinata,Glyceria,Poaceae,Poales,"2, 3",10,"20, 30",2
+Glyceria fluitans,Glyceria,Poaceae,Poales,4,10,40,1
+Glyceria maxima,Glyceria,Poaceae,Poales,6,10,60,1
+Glyceria notata,Glyceria,Poaceae,Poales,4,10,40,1
+Goodyera repens,Goodyera,Orchidaceae,Asparagales,2,15,30,1
+Gymnadenia borealis,Gymnadenia,Orchidaceae,Asparagales,2,20,40,1
+Gymnadenia conopsea,Gymnadenia,Orchidaceae,Asparagales,2,20,40,1
+Gymnadenia densiflora,Gymnadenia,Orchidaceae,Asparagales,2,20,40,1
+Hedera helix,Hedera,Araliaceae,Apiales,4,12,48,1
+Helianthemum apenninum,Helianthemum,Cistaceae,Malvales,4,5,20,1
+Helianthemum nummularium,Helianthemum,Cistaceae,Malvales,4,5,20,1
+Helianthemum oelandicum,Helianthemum,Cistaceae,Malvales,4,5,22,1
+Helianthus annuus,Helianthus,Asteraceae,Asterales,2,17,34,1
+Helictotrichon pratense,Helictotrichon,Poaceae,Poales,"6, 18",7,"42, 126",2
+Helictotrichon pubescens,Helictotrichon,Poaceae,Poales,2,7,14,1
+Helleborus foetidus,Helleborus,Ranunculaceae,Ranunculales,2,16,32,1
+Helleborus viridis,Helleborus,Ranunculaceae,Ranunculales,2,16,32,1
+Helminthotheca echioides,Helminthotheca,Asteraceae,Asterales,2,5,10,1
+Heracleum mantegazzianum,Heracleum,Apiaceae,Apiales,2,11,22,1
+Heracleum sphondylium,Heracleum,Apiaceae,Apiales,2,11,22,1
+Herniaria ciliolata,Herniaria,Caryophyllaceae,Caryophyllales,"8, 12",9,"72, 108",2
+Herniaria glabra,Herniaria,Caryophyllaceae,Caryophyllales,2,9,18,1
+Hieracium holosericeum,Hieracium,Asteraceae,Asterales,"3, 4",9,"27, 36",2
+Hieracium insigne,Hieracium,Asteraceae,Asterales,"3, 4",9,"27, 36",2
+Hieracium sect.,Hieracium,Asteraceae,Asterales,"4, 5",9,"36, 45",2
+Hieracium tenuifrons,Hieracium,Asteraceae,Asterales,"3, 4",9,"27, 36",2
+Hieracium umbellatum,Hieracium,Asteraceae,Asterales,"2, 3",9,"18, 27",2
+Hierochloe odorata,Hierochloe,Poaceae,Poales,4,7,28,1
+Hippocrepis comosa,Hippocrepis,Fabaceae,Fabales,"2, 4",7,"14, 28",2
+Holcus lanatus,Holcus,Poaceae,Poales,2,7,14,1
+Holcus mollis,Holcus,Poaceae,Poales,"4, 5, 7",7,"28, 35, 49",3
+Honckenya peploides,Honckenya,Caryophyllaceae,Caryophyllales,"3 (-3), 4 (-4), 4",17,"48, 64, 68",2
+Hordeum marinum,Hordeum,Poaceae,Poales,2,7,14,1
+Hordeum murinum,Hordeum,Poaceae,Poales,4,7,28,1
+Hordeum secalinum,Hordeum,Poaceae,Poales,2,7,14,1
+Hornungia petraea,Hornungia,Brassicaceae,Brassicales,2,6,12,1
+Humulus lupulus,Humulus,Cannabaceae,Rosales,2,8,20,1
+Hyacinthoides non-scripta,Hyacinthoides,Asparagaceae,Asparagales,"2, 3",8,"16, 24",2
+Hyoscyamus niger,Hyoscyamus,Solanaceae,Solanales,2,17,34,1
+Hypericum androsaemum,Hypericum,Hypericaceae,Malpighiales,4,10,40,1
+Hypericum hircinum,Hypericum,Hypericaceae,Malpighiales,4,10,40,1
+Hypericum hirsutum,Hypericum,Hypericaceae,Malpighiales,2,9,18,1
+Hypericum humifusum,Hypericum,Hypericaceae,Malpighiales,2,8,16,1
+Hypericum linariifolium,Hypericum,Hypericaceae,Malpighiales,2,8,16,1
+Hypericum perforatum,Hypericum,Hypericaceae,Malpighiales,4,8,32,1
+Hypericum pulchrum,Hypericum,Hypericaceae,Malpighiales,2,9,18,1
+Hypericum tetrapterum,Hypericum,Hypericaceae,Malpighiales,2,8,16,1
+Hypericum undulatum,Hypericum,Hypericaceae,Malpighiales,2,8,16,1
+Hypochaeris glabra,Hypochaeris,Asteraceae,Asterales,2,5,10,1
+Hypochaeris maculata,Hypochaeris,Asteraceae,Asterales,2,5,10,1
+Hypochaeris radicata,Hypochaeris,Asteraceae,Asterales,2,4,8,1
+Iberis amara,Iberis,Brassicaceae,Brassicales,2,7,14,1
+Ilex aquifolium,Ilex,Aquifoliaceae,Aquifoliales,2,20,40,1
+Impatiens parviflora,Impatiens,Balsaminaceae,Ericales,?,?,"24, 26",1
+Inula conyzae,Inula,Asteraceae,Asterales,4,8,32,1
+Inula crithmoides,Inula,Asteraceae,Asterales,2,9,18,1
+Inula helenium,Inula,Asteraceae,Asterales,2,10,20,1
+Iris pseudacorus,Iris,Iridaceae,Asparagales,2,17,"24, 30, 34",1
+Isolepis setacea,Isolepis,Cyperaceae,Poales,2,14,"26, 28",1
+Jacobaea aquatica,Jacobaea,Asteraceae,Asterales,4,10,40,1
+Jacobaea maritima,Jacobaea,Asteraceae,Asterales,4,10,40,1
+Jacobaea vulgaris,Jacobaea,Asteraceae,Asterales,"3 (+2), 4",10,"32, 40",2
+Jasione montana,Jasione,Campanulaceae,Asterales,2,9,12,1
+Juglans nigra,Juglans,Juglandaceae,Fagales,2,16,32,1
+Juglans regia,Juglans,Juglandaceae,Fagales,2,16,32,1
+Juncus acutiflorus,Juncus,Juncaceae,Poales,4,10,40,1
+Juncus acutus,Juncus,Juncaceae,Poales,"7, 8",6,"42, 48",2
+Juncus alpinoarticulatus,Juncus,Juncaceae,Poales,4,10,40,1
+Juncus articulatus,Juncus,Juncaceae,Poales,8,10,80,1
+Juncus bufonius,Juncus,Juncaceae,Poales,6,18,108,1
+Juncus bulbosus,Juncus,Juncaceae,Poales,4,10,40,1
+Juncus conglomeratus,Juncus,Juncaceae,Poales,4,10,42,1
+Juncus effusus,Juncus,Juncaceae,Poales,4,10,40,1
+Juncus foliosus,Juncus,Juncaceae,Poales,3,10,26,1
+Juncus gerardii,Juncus,Juncaceae,Poales,8,10,84,1
+Juncus inflexus,Juncus,Juncaceae,Poales,4,10,40,1
+Juncus maritimus,Juncus,Juncaceae,Poales,8,6,48,1
+Juncus squarrosus,Juncus,Juncaceae,Poales,4,10,40,1
+Juncus subnodulosus,Juncus,Juncaceae,Poales,4,10,40,1
+Kickxia elatine,Kickxia,Plantaginaceae,Lamiales,4,9,36,1
+Kickxia spuria,Kickxia,Plantaginaceae,Lamiales,2,9,18,1
+Koeleria macrantha,Koeleria,Poaceae,Poales,4,7,28,1
+Koeleria vallesiana,Koeleria,Poaceae,Poales,"2, 5, 6",7,"14, 35, 42",3
+Laburnum alpinum,Laburnum,Fabaceae,Fabales,4,12,48,1
+Laburnum anagyroides,Laburnum,Fabaceae,Fabales,4,12,48,1
+Lactuca muralis,Lactuca,Asteraceae,Asterales,2,9,18,1
+Lactuca saligna,Lactuca,Asteraceae,Asterales,2,9,18,1
+Lactuca serriola,Lactuca,Asteraceae,Asterales,2,9,18,1
+Lactuca virosa,Lactuca,Asteraceae,Asterales,2,9,18,1
+Lamium album,Lamium,Lamiaceae,Lamiales,2,9,18,1
+Lamium amplexicaule,Lamium,Lamiaceae,Lamiales,2,9,18,1
+Lamium galeobdolon,Lamium,Lamiaceae,Lamiales,"2, 4",9,"18, 36",2
+Lapsana communis,Lapsana,Asteraceae,Asterales,2,6,14,1
+Lathyrus aphaca,Lathyrus,Fabaceae,Fabales,2,7,14,1
+Lathyrus japonicus,Lathyrus,Fabaceae,Fabales,2,7,14,1
+Lathyrus linifolius,Lathyrus,Fabaceae,Fabales,2,7,14,1
+Lathyrus nissolia,Lathyrus,Fabaceae,Fabales,2,7,14,1
+Lathyrus palustris,Lathyrus,Fabaceae,Fabales,6,7,42,1
+Lathyrus pratensis,Lathyrus,Fabaceae,Fabales,"2, 4",7,"14, 28",2
+Lemna gibba,Lemna,Araceae,Alismatales,4,10,40,1
+Lemna trisulca,Lemna,Araceae,Alismatales,4,10,40,1
+Leontodon hispidus,Leontodon,Asteraceae,Asterales,2,7,"11, 14",1
+Leontodon saxatilis,Leontodon,Asteraceae,Asterales,2,4,8,1
+Leontodon taraxacoides,Leontodon,Asteraceae,Asterales,2,4,8,1
+Lepidium campestre,Lepidium,Brassicaceae,Brassicales,2,8,16,1
+Lepidium heterophyllum,Lepidium,Brassicaceae,Brassicales,2,8,16,1
+Lepidium latifolium,Lepidium,Brassicaceae,Brassicales,3,8,24,1
+Leucanthemum lacustre,Leucanthemum,Asteraceae,Asterales,12,9,108,1
+Leucanthemum maximum,Leucanthemum,Asteraceae,Asterales,22,9,198,1
+Leucanthemum vulgare,Leucanthemum,Asteraceae,Asterales,"2, 3, 4",9,"18, 27, 36",3
+Leucojum aestivum,Leucojum,Amaryllidaceae,Asparagales,2,11,22,1
+Leymus arenarius,Leymus,Poaceae,Poales,8,7,56,1
+Ligustrum ovalifolium,Ligustrum,Oleaceae,Lamiales,2,23,46,1
+Ligustrum vulgare,Ligustrum,Oleaceae,Lamiales,2,23,46,1
+Limbarda crithmoides,Limbarda,Asteraceae,Asterales,2,9,18,1
+Limonium bellidifolium,Limonium,Plumbaginaceae,Caryophyllales,2,9,18,1
+Limonium binervosum,Limonium,Plumbaginaceae,Caryophyllales,4,9,"32, 35",1
+Limonium britannicum,Limonium,Plumbaginaceae,Caryophyllales,4,9,"35, 36",1
+Limonium humile,Limonium,Plumbaginaceae,Caryophyllales,"4, 5 (+3), 5 (+4), 6",9,"36, 48, 49, 54",3
+Limonium loganicum,Limonium,Plumbaginaceae,Caryophyllales,4,9,36,1
+Limonium procerum,Limonium,Plumbaginaceae,Caryophyllales,4,9,"35, 36",1
+Limonium recurvum,Limonium,Plumbaginaceae,Caryophyllales,4,9,"27, 35",1
+Limosella aquatica,Limosella,Scrophulariaceae,Lamiales,"3, 4",10,"30, 40",2
+Limosella australis,Limosella,Scrophulariaceae,Lamiales,2,10,20,1
+Linaria purpurea,Linaria,Plantaginaceae,Lamiales,2,6,12,1
+Linaria repens,Linaria,Plantaginaceae,Lamiales,2,6,12,1
+Linaria supina,Linaria,Plantaginaceae,Lamiales,2,6,12,1
+Linaria vulgaris,Linaria,Plantaginaceae,Lamiales,2,6,12,1
+Linum bienne,Linum,Linaceae,Malpighiales,2,15,30,1
+Linum catharticum,Linum,Linaceae,Malpighiales,2,15,16,1
+Linum perenne,Linum,Linaceae,Malpighiales,2,15,36,1
+Lolium multiflorum,Lolium,Poaceae,Poales,2,7,14,1
+Lolium perenne,Lolium,Poaceae,Poales,2,7,14,1
+Lolium temulentum,Lolium,Poaceae,Poales,2,7,14,1
+Lonicera periclymenum,Lonicera,Caprifoliaceae,Dipsacales,"2, 6",9,"18, 54",2
+Lotus angustissimus,Lotus,Fabaceae,Fabales,2,6,12,1
+Lotus corniculatus,Lotus,Fabaceae,Fabales,4,6,24,1
+Lotus hispidus,Lotus,Fabaceae,Fabales,4,6,24,1
+Lotus pedunculatus,Lotus,Fabaceae,Fabales,2,6,12,1
+Lotus subbiflorus,Lotus,Fabaceae,Fabales,4,6,24,1
+Lotus tenuis,Lotus,Fabaceae,Fabales,2,6,12,1
+Luzula campestris,Luzula,Juncaceae,Poales,2,6,12,1
+Luzula forsteri,Luzula,Juncaceae,Poales,2,12,24,1
+Luzula multiflora,Luzula,Juncaceae,Poales,"4, 5, 6, 7",6,"24, 30, 36, 42",4
+Luzula pallescens,Luzula,Juncaceae,Poales,2,6,12,1
+Luzula pilosa,Luzula,Juncaceae,Poales,6,11,"62, 66",1
+Luzula spicata,Luzula,Juncaceae,Poales,4,6,24,1
+Luzula sylvatica,Luzula,Juncaceae,Poales,2,6,12,1
+Lysimachia nemorum,Lysimachia,Primulaceae,Ericales,2,8?,"16, 18",1
+Malus pumila,Malus,Rosaceae,Rosales,2,17,34,1
+Malus sylvestris,Malus,Rosaceae,Rosales,2,17,34,1
+Malva moschata,Malva,Malvaceae,Malvales,6,7,42,1
+Malva neglecta,Malva,Malvaceae,Malvales,6,7,42,1
+Malva sylvestris,Malva,Malvaceae,Malvales,6,7,42,1
+Matricaria chamomilla,Matricaria,Asteraceae,Asterales,2,9,18,1
+Matthiola incana,Matthiola,Brassicaceae,Brassicales,2,7,14,1
+Matthiola sinuata,Matthiola,Brassicaceae,Brassicales,2,7,14,1
+Medicago arabica,Medicago,Fabaceae,Fabales,2,8,16,1
+Medicago lupulina,Medicago,Fabaceae,Fabales,2,8,16,1
+Medicago minima,Medicago,Fabaceae,Fabales,2,8,16,1
+Medicago polymorpha,Medicago,Fabaceae,Fabales,2,7,14,1
+Medicago sativa,Medicago,Fabaceae,Fabales,4,8,32,1
+Melampyrum cristatum,Melampyrum,Orobanchaceae,Lamiales,2,9,18,1
+Melittis melissophyllum,Melittis,Lamiaceae,Lamiales,2,15,30,1
+Mentha aquatica,Mentha,Lamiaceae,Lamiales,8,12,96,1
+Mentha arvensis,Mentha,Lamiaceae,Lamiales,6,12,72,1
+Mentha longifolia,Mentha,Lamiaceae,Lamiales,"2, 3, 4",12,"24, 36, 48",3
+Mentha pulegium,Mentha,Lamiaceae,Lamiales,2,12,20,1
+Mentha spicata,Mentha,Lamiaceae,Lamiales,"3, 4",12,"36, 48",2
+Mentha suaveolens,Mentha,Lamiaceae,Lamiales,2,12,24,1
+Mentha villosa,Mentha,Lamiaceae,Lamiales,4,12,48,1
+Mercurialis perennis,Mercurialis,Euphorbiaceae,Malpighiales,"8, 9 (+2)",8,"64, 74",2
+Mespilus germanica,Mespilus,Rosaceae,Rosales,2,17,34,1
+Mibora minima,Mibora,Poaceae,Poales,2,7,14,1
+Milium effusum,Milium,Poaceae,Poales,4,7,28,1
+Mimulus guttatus,Mimulus,Phrymaceae,Lamiales,"2, 3 (+3), 3 (+6)",14,"28, 45, 48",2
+Minuartia rubella,Minuartia,Caryophyllaceae,Caryophyllales,2,12,24,1
+Minuartia sedoides,Minuartia,Caryophyllaceae,Caryophyllales,4,12,48,1
+Minuartia stricta,Minuartia,Caryophyllaceae,Caryophyllales,2,?,"22, 30",1
+Minuartia verna,Minuartia,Caryophyllaceae,Caryophyllales,2,12,24,1
+Misopates orontium,Misopates,Plantaginaceae,Lamiales,2,8,16,1
+Molinia caerulea,Molinia,Poaceae,Poales,4,9,36,1
+Montia fontana,Montia,Montiaceae,Caryophyllales,2,9,18,1
+Myosotis alpestris,Myosotis,Boraginaceae,Boraginales,4,12,48,1
+Myosotis secunda,Myosotis,Boraginaceae,Boraginales,4,12,48,1
+Myosotis stolonifera,Myosotis,Boraginaceae,Boraginales,2,12,24,1
+Myosurus minimus,Myosurus,Ranunculaceae,Ranunculales,2,8,16,1
+Myriophyllum alterniflorum,Myriophyllum,Haloragaceae,Saxifragales,2,7,14,1
+Myriophyllum spicatum,Myriophyllum,Haloragaceae,Saxifragales,6,7,42,1
+Myriophyllum verticillatum,Myriophyllum,Haloragaceae,Saxifragales,4,7,28,1
+Najas flexilis,Najas,Hydrocharitaceae,Alismatales,4,6,24,1
+Narcissus cyclamineus,Narcissus,Amaryllidaceae,Asparagales,2,7,14,1
+Narcissus jonquilla,Narcissus,Amaryllidaceae,Asparagales,2,7,14,1
+Narcissus pseudonarcissus,Narcissus,Amaryllidaceae,Asparagales,"2, 6 (+1)",7,"14, 43",2
+Nardus stricta,Nardus,Poaceae,Poales,2,13,26,1
+Narthecium ossifragum,Narthecium,Nartheciaceae,Dioscoreales,2,13,26,1
+Nasturtium microphyllum,Nasturtium,Brassicaceae,Brassicales,4,16,64,1
+Nasturtium officinale,Nasturtium,Brassicaceae,Brassicales,2,16,32,1
+Neottia ovata,Neottia,Orchidaceae,Asparagales,2,17,"34, 36",1
+Nepeta cataria,Nepeta,Lamiaceae,Lamiales,4,9,"34, 36",1
+Nepeta racemosa,Nepeta,Lamiaceae,Lamiales,2,9,18,1
+Nicotiana alata,Nicotiana,Solanaceae,Solanales,2,9,18,1
+Nicotiana forgetiana,Nicotiana,Solanaceae,Solanales,2,9,18,1
+Nothofagus alpina,Nothofagus,Nothofagaceae,Fagales,2,13,26,1
+Nothofagus obliqua,Nothofagus,Nothofagaceae,Fagales,2,13,26,1
+Nuphar lutea,Nuphar,Nymphaeaceae,Nymphaeales,2,17,34,1
+Nuphar pumila,Nuphar,Nymphaeaceae,Nymphaeales,2,17,34,1
+Nymphaea alba,Nymphaea,Nymphaeaceae,Nymphaeales,6,14,84,1
+Oenanthe aquatica,Oenanthe,Apiaceae,Apiales,2,11,22,1
+Oenanthe crocata,Oenanthe,Apiaceae,Apiales,2,11,22,1
+Oenanthe fistulosa,Oenanthe,Apiaceae,Apiales,2,11,22,1
+Oenanthe fluviatilis,Oenanthe,Apiaceae,Apiales,2,11,22,1
+Oenanthe lachenalii,Oenanthe,Apiaceae,Apiales,2,11,22,1
+Oenanthe pimpinelloides,Oenanthe,Apiaceae,Apiales,2,11,22,1
+Oenanthe silaifolia,Oenanthe,Apiaceae,Apiales,2,11,22,1
+Oenothera biennis,Oenothera,Onagraceae,Myrtales,2,7,14,1
+Oenothera glazioviana,Oenothera,Onagraceae,Myrtales,2,7,14,1
+Onobrychis viciifolia,Onobrychis,Fabaceae,Fabales,4,7,28,1
+Ononis reclinata,Ononis,Fabaceae,Fabales,4,15,60,1
+Onopordum acanthium,Onopordum,Asteraceae,Asterales,2,17,34,1
+Ophrys apifera,Ophrys,Orchidaceae,Asparagales,2,18,36,1
+Ophrys fuciflora,Ophrys,Orchidaceae,Asparagales,2,18,36,1
+Ophrys insectifera,Ophrys,Orchidaceae,Asparagales,2,18,36,1
+Ophrys sphegodes,Ophrys,Orchidaceae,Asparagales,2,18,36,1
+Orchis anthropophora,Orchis,Orchidaceae,Asparagales,2,21,42,1
+Orchis mascula,Orchis,Orchidaceae,Asparagales,2,21,42,1
+Orchis militaris,Orchis,Orchidaceae,Asparagales,2,21,42,1
+Orchis purpurea,Orchis,Orchidaceae,Asparagales,2,21,42,1
+Orchis simia,Orchis,Orchidaceae,Asparagales,2,21,42,1
+Origanum vulgare,Origanum,Lamiaceae,Lamiales,2,15,30,1
+Ornithogalum umbellatum,Ornithogalum,Asparagaceae,Asparagales,"3, 6",9,"27, 54",2
+Orobanche alba,Orobanche,Orobanchaceae,Lamiales,2,19,38,1
+Orobanche caryophyllacea,Orobanche,Orobanchaceae,Lamiales,2,19,38,1
+Orobanche elatior,Orobanche,Orobanchaceae,Lamiales,2,19,38,1
+Orobanche hederae,Orobanche,Orobanchaceae,Lamiales,2,19,38,1
+Orobanche minor,Orobanche,Orobanchaceae,Lamiales,2,19,38,1
+Orobanche purpurea,Orobanche,Orobanchaceae,Lamiales,2,19,24,1
+Orobanche rapum-genistae,Orobanche,Orobanchaceae,Lamiales,2,19,38,1
+Orobanche reticulata,Orobanche,Orobanchaceae,Lamiales,2,19,38,1
+Oxalis acetosella,Oxalis,Oxalidaceae,Oxalidales,2,11,22,1
+Papaver argemone,Papaver,Papaveraceae,Ranunculales,"2, 6",7,"12, 42",2
+Papaver cambricum,Papaver,Papaveraceae,Ranunculales,2,11,22,1
+Papaver dubium,Papaver,Papaveraceae,Ranunculales,"4, 6",7,"28, 42",2
+Papaver hybridum,Papaver,Papaveraceae,Ranunculales,2,7,14,1
+Papaver rhoeas,Papaver,Papaveraceae,Ranunculales,2,7,14,1
+Papaver somniferum,Papaver,Papaveraceae,Ranunculales,2,11,22,1
+Parentucellia viscosa,Parentucellia,Orobanchaceae,Lamiales,2,24,48,1
+Paris quadrifolia,Paris,Melanthiaceae,Liliales,4,5,20,1
+Parnassia palustris,Parnassia,Celastraceae,Celastrales,"2, 4",9,"18, 36",2
+Pastinaca sativa,Pastinaca,Apiaceae,Apiales,2,11,22,1
+Pedicularis palustris,Pedicularis,Orobanchaceae,Lamiales,2,8,16,1
+Pedicularis sylvatica,Pedicularis,Orobanchaceae,Lamiales,2,8,16,1
+Persicaria amphibia,Persicaria,Polygonaceae,Caryophyllales,"8, 9 (-3)",11,"88, 96",2
+Persicaria hydropiper,Persicaria,Polygonaceae,Caryophyllales,2,10,20,1
+Persicaria lapathifolia,Persicaria,Polygonaceae,Caryophyllales,2,11,22,1
+Persicaria maculosa,Persicaria,Polygonaceae,Caryophyllales,"2, 4",11,"22, 44",2
+Persicaria minor,Persicaria,Polygonaceae,Caryophyllales,4,10,40,1
+Persicaria mitis,Persicaria,Polygonaceae,Caryophyllales,4,10,40,1
+Persicaria weyrichii,Persicaria,Polygonaceae,Caryophyllales,2,10,20,1
+Petasites fragrans,Petasites,Asteraceae,Asterales,2,30,60,1
+Petasites hybridus,Petasites,Asteraceae,Asterales,2,30,60,1
+Petrorhagia nanteuilii,Petrorhagia,Caryophyllaceae,Caryophyllales,4,15,60,1
+Phalaris arundinacea,Phalaris,Poaceae,Poales,4,7,28,1
+Philadelphus coronarius,Philadelphus,Hydrangeaceae,Cornales,2,13,26,1
+Philadelphus microphyllus,Philadelphus,Hydrangeaceae,Cornales,2,13,26,1
+Phleum alpinum,Phleum,Poaceae,Poales,4,7,28,1
+Phleum arenarium,Phleum,Poaceae,Poales,2,7,14,1
+Phleum phleoides,Phleum,Poaceae,Poales,2,7,14,1
+Phleum pratense,Phleum,Poaceae,Poales,"2, 6",7,"14, 42",2
+Phragmites australis,Phragmites,Poaceae,Poales,4,12,48,1
+Phyteuma orbiculare,Phyteuma,Campanulaceae,Asterales,2,11,22,1
+Picris hieracioides,Picris,Asteraceae,Asterales,2,5,10,1
+Pilosella flagellaris,Pilosella,Asteraceae,Asterales,6,9,54,1
+Pilosella lactucella,Pilosella,Asteraceae,Asterales,2,9,18,1
+Pilosella officinarum,Pilosella,Asteraceae,Asterales,"2, 4, 5, 6 (-1), 6",9,"18, 36, 45, 53, 54",4
+Pilosella peleteriana,Pilosella,Asteraceae,Asterales,2,9,18,1
+Pimpinella major,Pimpinella,Apiaceae,Apiales,2,9,18,1
+Pinguicula lusitanica,Pinguicula,Lentibulariaceae,Lamiales,2,11,12,1
+Plantago coronopus,Plantago,Plantaginaceae,Lamiales,2,5,10,1
+Plantago lanceolata,Plantago,Plantaginaceae,Lamiales,2,6,12,1
+Plantago major,Plantago,Plantaginaceae,Lamiales,2,6,12,1
+Plantago maritima,Plantago,Plantaginaceae,Lamiales,2,6,12,1
+Plantago media,Plantago,Plantaginaceae,Lamiales,4,6,24,1
+Platanthera bifolia,Platanthera,Orchidaceae,Asparagales,2,21,42,1
+Platanthera chlorantha,Platanthera,Orchidaceae,Asparagales,2,21,42,1
+Platanus occidentalis,Platanus,Platanaceae,Proteales,2,21,42,1
+Platanus orientalis,Platanus,Platanaceae,Proteales,2,21,42,1
+Poa alpina,Poa,Poaceae,Poales,"5 (-3), 5, 6 (-3), 12",7,"32, 35, 39, 84",3
+Poa angustifolia,Poa,Poaceae,Poales,8,7,"52, 61",1
+Poa annua,Poa,Poaceae,Poales,4,7,28,1
+Poa bulbosa,Poa,Poaceae,Poales,"4, 6 (+3)",7,"28, 45",2
+Poa compressa,Poa,Poaceae,Poales,6,7,42,1
+Poa flabellata,Poa,Poaceae,Poales,6,7,42,1
+Poa flexuosa,Poa,Poaceae,Poales,6,7,42,1
+Poa glauca,Poa,Poaceae,Poales,"6, 8, 10",7,"42, 56, 70",3
+Poa humilis,Poa,Poaceae,Poales,"8 (-2), 8, 9 (+2), 10, 10 (+2), 12 (-1), 12, 13 (-1), 13 (+1), 14, 15, 16 (-3)",7,"54, 56, 65, 70, 72, 83, 84, 90, 92, 98, 105, 109",8
+Poa infirma,Poa,Poaceae,Poales,2,7,14,1
+Poa nemoralis,Poa,Poaceae,Poales,"6, 8",7,"42, 56",2
+Poa pratensis,Poa,Poaceae,Poales,12,7,84,1
+Poa trivialis,Poa,Poaceae,Poales,"2, 4",7,"14, 28",2
+Polygala amarella,Polygala,Polygalaceae,Fabales,2,17,34,1
+Polygala calcarea,Polygala,Polygalaceae,Fabales,2,17,34,1
+Polygala serpyllifolia,Polygala,Polygalaceae,Fabales,2,17,34,1
+Polygala vulgaris,Polygala,Polygalaceae,Fabales,"3 (+5), 4",17,"56, 68",2
+Polygonatum multiflorum,Polygonatum,Asparagaceae,Asparagales,"2, 3 (+3)",9,"18, 30",2
+Polygonatum odoratum,Polygonatum,Asparagaceae,Asparagales,3?,10,"26, 28, 29, 30",1
+Polygonatum verticillatum,Polygonatum,Asparagaceae,Asparagales,"2, 6 (-6)",15,"30, 84",2
+Polygonum arenastrum,Polygonum,Polygonaceae,Caryophyllales,4,10,40,1
+Polygonum aviculare,Polygonum,Polygonaceae,Caryophyllales,6,10,60,1
+Polygonum boreale,Polygonum,Polygonaceae,Caryophyllales,4,10,40,1
+Polygonum maritimum,Polygonum,Polygonaceae,Caryophyllales,2,10,20,1
+Polygonum oxyspermum,Polygonum,Polygonaceae,Caryophyllales,4,10,40,1
+Polygonum rurivagum,Polygonum,Polygonaceae,Caryophyllales,6,10,60,1
+Polypogon monspeliensis,Polypogon,Poaceae,Poales,4,7,28,1
+Polypogon viridis,Polypogon,Poaceae,Poales,4,7,28,1
+Populus balsamifera,Populus,Salicaceae,Malpighiales,2,19,38,1
+Populus deltoides,Populus,Salicaceae,Malpighiales,2,19,38,1
+Populus laurifolia,Populus,Salicaceae,Malpighiales,2,19,38,1
+Populus nigra,Populus,Salicaceae,Malpighiales,2,19,38,1
+Populus tremula,Populus,Salicaceae,Malpighiales,2,19,38,1
+Populus trichocarpa,Populus,Salicaceae,Malpighiales,2,19,38,1
+Potamogeton acutifolius,Potamogeton,Potamogetonaceae,Alismatales,2,14,28,1
+Potamogeton alpinus,Potamogeton,Potamogetonaceae,Alismatales,4,13,52,1
+Potamogeton berchtoldii,Potamogeton,Potamogetonaceae,Alismatales,2,13,26,1
+Potamogeton coloratus,Potamogeton,Potamogetonaceae,Alismatales,2,13,26,1
+Potamogeton crispus,Potamogeton,Potamogetonaceae,Alismatales,4,13,52,1
+Potamogeton friesii,Potamogeton,Potamogetonaceae,Alismatales,2,13,26,1
+Potamogeton gramineus,Potamogeton,Potamogetonaceae,Alismatales,4,13,52,1
+Potamogeton lucens,Potamogeton,Potamogetonaceae,Alismatales,4,13,52,1
+Potamogeton natans,Potamogeton,Potamogetonaceae,Alismatales,4,13,52,1
+Potamogeton nodosus,Potamogeton,Potamogetonaceae,Alismatales,4,13,52,1
+Potamogeton perfoliatus,Potamogeton,Potamogetonaceae,Alismatales,4,13,52,1
+Potamogeton polygonifolius,Potamogeton,Potamogetonaceae,Alismatales,2,14,28,1
+Potamogeton praelongus,Potamogeton,Potamogetonaceae,Alismatales,4,13,52,1
+Potamogeton trichoides,Potamogeton,Potamogetonaceae,Alismatales,2,13,26,1
+Potentilla anglica,Potentilla,Rosaceae,Rosales,8,7,56,1
+Potentilla anserina,Potentilla,Rosaceae,Rosales,"4, 6",7,"28, 42",2
+Potentilla argentea,Potentilla,Rosaceae,Rosales,2,7,14,1
+Potentilla crantzii,Potentilla,Rosaceae,Rosales,"6, 9",7,"42, 63",2
+Potentilla erecta,Potentilla,Rosaceae,Rosales,4,7,28,1
+Potentilla reptans,Potentilla,Rosaceae,Rosales,4,7,28,1
+Potentilla sterilis,Potentilla,Rosaceae,Rosales,4,7,28,1
+Potentilla tabernaemontani,Potentilla,Rosaceae,Rosales,"6, 7",7,"42, 49",2
+Primula elatior,Primula,Primulaceae,Ericales,2,11,22,1
+Primula farinosa,Primula,Primulaceae,Ericales,2,11,18,1
+Primula juliae,Primula,Primulaceae,Ericales,2,11,22,1
+Primula scotica,Primula,Primulaceae,Ericales,5,11,54,1
+Primula veris,Primula,Primulaceae,Ericales,2,11,22,1
+Primula vulgaris,Primula,Primulaceae,Ericales,2,11,22,1
+Prospero autumnale,Prospero,Asparagaceae,Asparagales,"4, 6, 6 (+2)",7,"28, 42, 44",2
+Prunella laciniata,Prunella,Lamiaceae,Lamiales,4,7,28,1
+Prunella vulgaris,Prunella,Lamiaceae,Lamiales,4,7,28,1
+Prunus avium,Prunus,Rosaceae,Rosales,2,8,16,1
+Prunus cerasifera,Prunus,Rosaceae,Rosales,2,8,16,1
+Prunus cerasus,Prunus,Rosaceae,Rosales,4,8,32,1
+Prunus domestica,Prunus,Rosaceae,Rosales,6,8,48,1
+Prunus padus,Prunus,Rosaceae,Rosales,4,8,32,1
+Prunus spinosa,Prunus,Rosaceae,Rosales,4,8,32,1
+Pseudorchis albida,Pseudorchis,Orchidaceae,Asparagales,2,20,40,1
+Pseudosclerochloa rupestris,Pseudosclerochloa,Poaceae,Poales,6,7,42,1
+Puccinellia distans,Puccinellia,Poaceae,Poales,"4, 6",7,"28, 42",2
+Puccinellia fasciculata,Puccinellia,Poaceae,Poales,4,7,28,1
+Puccinellia maritima,Puccinellia,Poaceae,Poales,"2, 7, 8, 9 (-3), 9, 11",7,"14, 49, 56, 60, 63, 77",5
+Pyracantha coccinea,Pyracantha,Rosaceae,Rosales,2,17,34,1
+Pyrus communis,Pyrus,Rosaceae,Rosales,2,17,34,1
+Pyrus pyraster,Pyrus,Rosaceae,Rosales,2,17,34,1
+Quercus cerris,Quercus,Fagaceae,Fagales,2,12,24,1
+Quercus petraea,Quercus,Fagaceae,Fagales,2,12,24,1
+Quercus robur,Quercus,Fagaceae,Fagales,2,12,24,1
+Quercus suber,Quercus,Fagaceae,Fagales,2,12,24,1
+Ranunculus acris,Ranunculus,Ranunculaceae,Ranunculales,2,7,14,1
+Ranunculus aquatilis,Ranunculus,Ranunculaceae,Ranunculales,6,8,48,1
+Ranunculus arvensis,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus auricomus,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus baudotii,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus bulbosus,Ranunculus,Ranunculaceae,Ranunculales,2,8,16,1
+Ranunculus circinatus,Ranunculus,Ranunculaceae,Ranunculales,2,8,16,1
+Ranunculus flammula,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus fluitans,Ranunculus,Ranunculaceae,Ranunculales,"2, 4",8,"16, 32",2
+Ranunculus hederaceus,Ranunculus,Ranunculaceae,Ranunculales,2,8,16,1
+Ranunculus omiophyllus,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus ophioglossifolius,Ranunculus,Ranunculaceae,Ranunculales,2,8,16,1
+Ranunculus paludosus,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus parviflorus,Ranunculus,Ranunculaceae,Ranunculales,4,7,28,1
+Ranunculus peltatus,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus penicillatus,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus repens,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus reptans,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus sardous,Ranunculus,Ranunculaceae,Ranunculales,2,8,16,1
+Ranunculus sceleratus,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus trichophyllus,Ranunculus,Ranunculaceae,Ranunculales,4,8,32,1
+Ranunculus tripartitus,Ranunculus,Ranunculaceae,Ranunculales,6,8,48,1
+Raphanus raphanistrum,Raphanus,Brassicaceae,Brassicales,2,9,18,1
+Reseda luteola,Reseda,Resedaceae,Brassicales,2,13,26,1
+Reynoutria japonica,Reynoutria,Polygonaceae,Caryophyllales,"4, 8",11,"44, 88",2
+Rhamnus cathartica,Rhamnus,Rhamnaceae,Rosales,2,12,24,1
+Rhinanthus minor,Rhinanthus,Orobanchaceae,Lamiales,2,11,22,1
+Ribes alpinum,Ribes,Grossulariaceae,Saxifragales,2,8,16,1
+Ribes nigrum,Ribes,Grossulariaceae,Saxifragales,2,8,16,1
+Ribes rubrum,Ribes,Grossulariaceae,Saxifragales,2,8,16,1
+Ribes uva-crispa,Ribes,Grossulariaceae,Saxifragales,2,8,16,1
+Rorippa amphibia,Rorippa,Brassicaceae,Brassicales,"2, 4",8,"16, 32",2
+Rorippa austriaca,Rorippa,Brassicaceae,Brassicales,2,8,16,1
+Rorippa islandica,Rorippa,Brassicaceae,Brassicales,2,8,16,1
+Rorippa palustris,Rorippa,Brassicaceae,Brassicales,4,8,32,1
+Rorippa sylvestris,Rorippa,Brassicaceae,Brassicales,6,8,48,1
+Rosa agrestis,Rosa,Rosaceae,Rosales,"5, 6",7,"35, 42",2
+Rosa arvensis,Rosa,Rosaceae,Rosales,2,7,14,1
+Rosa caesia,Rosa,Rosaceae,Rosales,5,7,"34, 35",1
+Rosa canina,Rosa,Rosaceae,Rosales,5,7,35,1
+Rosa micrantha,Rosa,Rosaceae,Rosales,"5, 6",7,"35, 42",2
+Rosa mollis,Rosa,Rosaceae,Rosales,"4, 8",7,"28, 56",2
+Rosa obtusifolia,Rosa,Rosaceae,Rosales,5,7,35,1
+Rosa rubiginosa,Rosa,Rosaceae,Rosales,5,7,35,1
+Rosa rugosa,Rosa,Rosaceae,Rosales,2,7,14,1
+Rosa sherardii,Rosa,Rosaceae,Rosales,"4, 5",7,"28, 35",2
+Rosa spinosissima,Rosa,Rosaceae,Rosales,4,7,28,1
+Rosa stylosa,Rosa,Rosaceae,Rosales,"5 (-1), 5, 6",7,"34, 35, 42",2
+Rosa tomentosa,Rosa,Rosaceae,Rosales,5,7,35,1
+Rosa xanthina,Rosa,Rosaceae,Rosales,4,7,28,1
+Rubus adenoleucus,Rubus,Rosaceae,Rosales,5,7,35,1
+Rubus adornatus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus ahenifolius,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus amplificatus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus anglocandicans,Rubus,Rosaceae,Rosales,5,7,35,1
+Rubus armipotens,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus arrheniiformis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus asperidens,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus babingtonianus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus bakerianus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus bertramii,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus bloxamianus,Rubus,Rosaceae,Rosales,6,7,42,1
+Rubus bloxamii,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus boraeanus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus braeuckeri,Rubus,Rosaceae,Rosales,3,7,21,1
+Rubus britannicus,Rubus,Rosaceae,Rosales,6,7,42,1
+Rubus caesius,Rubus,Rosaceae,Rosales,"4, 5",7,"28, 35",2
+Rubus cardiophyllus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus chamaemorus,Rubus,Rosaceae,Rosales,8,7,56,1
+Rubus chrysoxylon,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus cissburiensis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus cockburnianus,Rubus,Rosaceae,Rosales,2,7,14,1
+Rubus conjungens,Rubus,Rosaceae,Rosales,"4, 5",7,"28, 35",2
+Rubus crespignyanus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus dentatifolius,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus diversus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus dumnoniensis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus echinatoides,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus echinatus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus egregius,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus errabundus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus erythrops,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus fissus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus formidabilis,Rubus,Rosaceae,Rosales,"4, 5",7,"28, 35",2
+Rubus furvicolor,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus glanduliger,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus gratus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus griffithianus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus halsteadensis,Rubus,Rosaceae,Rosales,5,7,35,1
+Rubus hartmanii,Rubus,Rosaceae,Rosales,5,7,35,1
+Rubus hastiformis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus heterobelus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus hylophilus,Rubus,Rosaceae,Rosales,3,7,21,1
+Rubus idaeus,Rubus,Rosaceae,Rosales,"2, 3, 4, 6",7,"14, 21, 28, 42",4
+Rubus imbricatus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus incurvatus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus infestisepalus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus infestus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus insectifolius,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus integribasis,Rubus,Rosaceae,Rosales,6,7,42,1
+Rubus iricus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus laciniatus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus largificus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus lentiginosus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus leptadenes,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus leucandrus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus leucostachys,Rubus,Rosaceae,Rosales,"3, 4",7,"21, 28",2
+Rubus leyanus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus lindebergii,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus lindleianus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus loganobaccus,Rubus,Rosaceae,Rosales,7,7,49,1
+Rubus longifrons,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus longithyrsiger,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus macrophyllus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus macrothyrsus,Rubus,Rosaceae,Rosales,"2, 4",7,"14, 28",2
+Rubus marshallii,Rubus,Rosaceae,Rosales,5,7,35,1
+Rubus melanodermis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus mercicus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus mollissimus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus murrayi,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus naldrettii,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus nemoralis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus nemorosus,Rubus,Rosaceae,Rosales,"4, 5",7,"28, 35",2
+Rubus neomalacus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus newbouldii,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus newbridgensis,Rubus,Rosaceae,Rosales,"4, 6",7,"28, 42",2
+Rubus nitidiformis,Rubus,Rosaceae,Rosales,"4, 6",7,"28, 42",2
+Rubus odoratus,Rubus,Rosaceae,Rosales,2,7,14,1
+Rubus oxyanchus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus pallidus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus parviflorus,Rubus,Rosaceae,Rosales,2,7,14,1
+Rubus patuliformis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus pedemontanus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus permundus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus phaeocarpus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus phoenicolasius,Rubus,Rosaceae,Rosales,2,7,14,1
+Rubus plicatus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus podophyllus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus polyanthemus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus praecox,Rubus,Rosaceae,Rosales,"4, 7",7,"28, 49",2
+Rubus proiectus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus pruinosus,Rubus,Rosaceae,Rosales,5,7,35,1
+Rubus pyramidalis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus questieri,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus radula,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus rhombifolius,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus rosaceus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus rotundifolius,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus rubritinctus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus rufescens,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus salteri,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus saxatilis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus scaber,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus sciocharis,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus scissus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus silvaticus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus sprengelii,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus subinermoides,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus subtercanens,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus sulcatus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus tardus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus ulmifolius,Rubus,Rosaceae,Rosales,"2, 4",7,"14, 28",2
+Rubus vigorosus,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus warrenii,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus winteri,Rubus,Rosaceae,Rosales,4,7,28,1
+Rubus wolleydodii,Rubus,Rosaceae,Rosales,4,7,28,1
+Rumex acetosa,Rumex,Polygonaceae,Caryophyllales,2,7,14,1
+Rumex acetosella,Rumex,Polygonaceae,Caryophyllales,"4, 6",7,"28, 42",2
+Rumex conglomeratus,Rumex,Polygonaceae,Caryophyllales,2,10,20,1
+Rumex crispus,Rumex,Polygonaceae,Caryophyllales,6,10,60,1
+Rumex cristatus,Rumex,Polygonaceae,Caryophyllales,8,10,80,1
+Rumex dentatus,Rumex,Polygonaceae,Caryophyllales,4,10,40,1
+Rumex frutescens,Rumex,Polygonaceae,Caryophyllales,16,10,160,1
+Rumex hydrolapathum,Rumex,Polygonaceae,Caryophyllales,13,10,130,1
+Rumex longifolius,Rumex,Polygonaceae,Caryophyllales,6,10,60,1
+Rumex maritimus,Rumex,Polygonaceae,Caryophyllales,4,10,40,1
+Rumex obovatus,Rumex,Polygonaceae,Caryophyllales,4,10,40,1
+Rumex obtusifolius,Rumex,Polygonaceae,Caryophyllales,4,10,40,1
+Rumex palustris,Rumex,Polygonaceae,Caryophyllales,6,10,60,1
+Rumex patientia,Rumex,Polygonaceae,Caryophyllales,6,10,60,1
+Rumex rupestris,Rumex,Polygonaceae,Caryophyllales,2,10,20,1
+Rumex sanguineus,Rumex,Polygonaceae,Caryophyllales,2,10,20,1
+Ruppia cirrhosa,Ruppia,Ruppiaceae,Alismatales,4,10,40,1
+Ruppia maritima,Ruppia,Ruppiaceae,Alismatales,2,10,20,1
+Ruscus aculeatus,Ruscus,Asparagaceae,Asparagales,2,20,40,1
+Sagina apetala,Sagina,Caryophyllaceae,Caryophyllales,2,6,12,1
+Sagina filicaulis,Sagina,Caryophyllaceae,Caryophyllales,2,6,12,1
+Sagina maritima,Sagina,Caryophyllaceae,Caryophyllales,4,7,28,1
+Sagina nodosa,Sagina,Caryophyllaceae,Caryophyllales,5,11,56,1
+Sagina procumbens,Sagina,Caryophyllaceae,Caryophyllales,2,11,22,1
+Sagina saginoides,Sagina,Caryophyllaceae,Caryophyllales,2,11,22,1
+Sagina subulata,Sagina,Caryophyllaceae,Caryophyllales,2,11,22,1
+Salicornia dolichostachya,Salicornia,Amaranthaceae,Caryophyllales,4,9,36,1
+Salicornia emerici,Salicornia,Amaranthaceae,Caryophyllales,4,9,36,1
+Salicornia europaea,Salicornia,Amaranthaceae,Caryophyllales,"2, 4",9,"18, 36",2
+Salicornia nitens,Salicornia,Amaranthaceae,Caryophyllales,4,9,36,1
+Salicornia obscura,Salicornia,Amaranthaceae,Caryophyllales,2,9,18,1
+Salicornia pusilla,Salicornia,Amaranthaceae,Caryophyllales,2,9,"16, 18",1
+Salicornia ramosissima,Salicornia,Amaranthaceae,Caryophyllales,"2, 4",9,"18, 36",2
+Salix acutifolia,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix alba,Salix,Salicaceae,Malpighiales,4,19,76,1
+Salix arbuscula,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix atrocinerea,Salix,Salicaceae,Malpighiales,4,19,76,1
+Salix aurita,Salix,Salicaceae,Malpighiales,4,19,76,1
+Salix babylonica,Salix,Salicaceae,Malpighiales,4,19,76,1
+Salix caprea,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix cinerea,Salix,Salicaceae,Malpighiales,4,19,76,1
+Salix daphnoides,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix euxina,Salix,Salicaceae,Malpighiales,4,19,76,1
+Salix fragilis,Salix,Salicaceae,Malpighiales,4,19,76,1
+Salix herbacea,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix lanata,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix lapponum,Salix,Salicaceae,Malpighiales,"2, 4",19,"38, 76",2
+Salix myrsinifolia,Salix,Salicaceae,Malpighiales,6,19,114,1
+Salix myrsinites,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix pentandra,Salix,Salicaceae,Malpighiales,4,19,76,1
+Salix purpurea,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix repens,Salix,Salicaceae,Malpighiales,2,18,36,1
+Salix reticulata,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix triandra,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salix viminalis,Salix,Salicaceae,Malpighiales,2,19,38,1
+Salsola kali,Salsola,Amaranthaceae,Caryophyllales,4,9,36,1
+Salvia verbenaca,Salvia,Lamiaceae,Lamiales,6,9,54,1
+Sambucus ebulus,Sambucus,Adoxaceae,Dipsacales,2,18,36,1
+Sambucus nigra,Sambucus,Adoxaceae,Dipsacales,2,18,36,1
+Sanguisorba minor,Sanguisorba,Rosaceae,Rosales,4,7,28,1
+Sanguisorba officinalis,Sanguisorba,Rosaceae,Rosales,"4, 8",7,"28, 56",2
+Sanicula europaea,Sanicula,Apiaceae,Apiales,2,8,16,1
+Saponaria officinalis,Saponaria,Caryophyllaceae,Caryophyllales,2,14,28,1
+Sarcocornia perennis,Sarcocornia,Amaranthaceae,Caryophyllales,2,9,18,1
+Saussurea alpina,Saussurea,Asteraceae,Asterales,6,9,54,1
+Saxifraga cuneifolia,Saxifraga,Saxifragaceae,Saxifragales,4,7,28,1
+Saxifraga granulata,Saxifraga,Saxifragaceae,Saxifragales,3,11,32,1
+Saxifraga hirsuta,Saxifraga,Saxifragaceae,Saxifragales,4,7,28,1
+Saxifraga hypnoides,Saxifraga,Saxifragaceae,Saxifragales,"3 (+2), 4 (-2), 6, 7 (-4), 8",8,"26, 30, 48, 52, 64",5
+Saxifraga oppositifolia,Saxifraga,Saxifragaceae,Saxifragales,2,13,26,1
+Saxifraga rosacea,Saxifraga,Saxifragaceae,Saxifragales,"4, 6, 7 (-4), 8",8,"32, 48, 52, 64",4
+Saxifraga spathularis,Saxifraga,Saxifragaceae,Saxifragales,4,7,28,1
+Saxifraga stellaris,Saxifraga,Saxifragaceae,Saxifragales,4,7,28,1
+Saxifraga umbrosa,Saxifraga,Saxifragaceae,Saxifragales,4,7,28,1
+Scabiosa columbaria,Scabiosa,Caprifoliaceae,Dipsacales,2,8,16,1
+Scheuchzeria palustris,Scheuchzeria,Scheuchzeriaceae,Alismatales,2,11,22,1
+Scilla verna,Scilla,Asparagaceae,Asparagales,2,10,"20, 22",1
+Scolochloa festucacea,Scolochloa,Poaceae,Poales,6,7,42,1
+Scorzonera humilis,Scorzonera,Asteraceae,Asterales,2,7,14,1
+Scorzoneroides autumnalis,Scorzoneroides,Asteraceae,Asterales,3,4,12,1
+Scrophularia nodosa,Scrophularia,Scrophulariaceae,Lamiales,2,18,36,1
+Scrophularia umbrosa,Scrophularia,Scrophulariaceae,Lamiales,"2, 4 (-2), 4",20,"40, 78, 80",2
+Scutellaria galericulata,Scutellaria,Lamiaceae,Lamiales,4,8,"30, 32",1
+Secale cereale,Secale,Poaceae,Poales,2,7,14,1
+Sedum album,Sedum,Crassulaceae,Saxifragales,2,17,34,1
+Sedum forsterianum,Sedum,Crassulaceae,Saxifragales,8,12,90,1
+Sedum telephium,Sedum,Crassulaceae,Saxifragales,2,12,"24, 26",1
+Senecio aquaticus,Senecio,Asteraceae,Asterales,4,10,40,1
+Senecio cambrensis,Senecio,Asteraceae,Asterales,6,10,60,1
+Senecio erucifolius,Senecio,Asteraceae,Asterales,4,10,40,1
+Senecio jacobaea,Senecio,Asteraceae,Asterales,4,10,40,1
+Senecio leucanthemifolius,Senecio,Asteraceae,Asterales,2,10,20,1
+Senecio squalidus,Senecio,Asteraceae,Asterales,2,10,20,1
+Senecio sylvaticus,Senecio,Asteraceae,Asterales,4,10,40,1
+Senecio viscosus,Senecio,Asteraceae,Asterales,4,10,40,1
+Senecio vulgaris,Senecio,Asteraceae,Asterales,4,10,40,1
+Sesleria albicans,Sesleria,Poaceae,Poales,4,7,28,1
+Sesleria caerulea,Sesleria,Poaceae,Poales,4,7,28,1
+Silene acaulis,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene dioica,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene gallica,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene latifolia,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene noctiflora,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene nutans,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene otites,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene suecica,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene uniflora,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene viscaria,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Silene vulgaris,Silene,Caryophyllaceae,Caryophyllales,2,12,24,1
+Sinapis alba,Sinapis,Brassicaceae,Brassicales,3,8,24,1
+Sinapis arvensis,Sinapis,Brassicaceae,Brassicales,2,9,18,1
+Sisymbrium officinale,Sisymbrium,Brassicaceae,Brassicales,2,7,14,1
+Sisyrinchium bermudiana,Sisyrinchium,Iridaceae,Asparagales,"8, 11, 12",8,"64, 88, 96",3
+Solanum americanum,Solanum,Solanaceae,Solanales,6,12,72,1
+Solanum dulcamara,Solanum,Solanaceae,Solanales,2,12,24,1
+Solanum nigrum,Solanum,Solanaceae,Solanales,6,12,72,1
+Solanum physalifolium,Solanum,Solanaceae,Solanales,2,12,24,1
+Solanum sarachoides,Solanum,Solanaceae,Solanales,2,12,24,1
+Solidago virgaurea,Solidago,Asteraceae,Asterales,2,9,18,1
+Sonchus arvensis,Sonchus,Asteraceae,Asterales,6,9,54,1
+Sonchus asper,Sonchus,Asteraceae,Asterales,2,9,"18, 25",1
+Sonchus oleraceus,Sonchus,Asteraceae,Asterales,4,8,32,1
+Sonchus palustris,Sonchus,Asteraceae,Asterales,2,9,18,1
+Sorbus anglica,Sorbus,Rosaceae,Rosales,4,17,68,1
+Sorbus aria,Sorbus,Rosaceae,Rosales,2,17,34,1
+Sorbus arranensis,Sorbus,Rosaceae,Rosales,3,17,51,1
+Sorbus aucuparia,Sorbus,Rosaceae,Rosales,2,17,34,1
+Sorbus bristoliensis,Sorbus,Rosaceae,Rosales,3,17,51,1
+Sorbus devoniensis,Sorbus,Rosaceae,Rosales,4,17,68,1
+Sorbus eminens,Sorbus,Rosaceae,Rosales,4,17,68,1
+Sorbus eminentiformis,Sorbus,Rosaceae,Rosales,4,17,68,1
+Sorbus intermedia,Sorbus,Rosaceae,Rosales,4,17,68,1
+Sorbus lancastriensis,Sorbus,Rosaceae,Rosales,4,17,68,1
+Sorbus latifolia,Sorbus,Rosaceae,Rosales,"3, 4",17,"51, 68",2
+Sorbus leptophylla,Sorbus,Rosaceae,Rosales,"3, 4",17,"51, 68",2
+Sorbus leyana,Sorbus,Rosaceae,Rosales,3,17,51,1
+Sorbus minima,Sorbus,Rosaceae,Rosales,3,17,51,1
+Sorbus porrigentiformis,Sorbus,Rosaceae,Rosales,"2, 4",17,"34, 68",2
+Sorbus pseudofennica,Sorbus,Rosaceae,Rosales,3,17,51,1
+Sorbus rupicola,Sorbus,Rosaceae,Rosales,"2, 3, 4",17,"34, 51, 68",3
+Sorbus scalaris,Sorbus,Rosaceae,Rosales,2,17,34,1
+Sorbus torminalis,Sorbus,Rosaceae,Rosales,2,17,34,1
+Sorbus vexans,Sorbus,Rosaceae,Rosales,4,17,68,1
+Sorbus wilmottiana,Sorbus,Rosaceae,Rosales,3,17,51,1
+Sparganium angustifolium,Sparganium,Typhaceae,Poales,2,15,30,1
+Sparganium emersum,Sparganium,Typhaceae,Poales,2,15,30,1
+Sparganium erectum,Sparganium,Typhaceae,Poales,2,15,30,1
+Spartina anglica,Spartina,Poaceae,Poales,"9, 12, 12 (+2), 12 (+4)",10,"90, 120, 122, 124",2
+Spartina maritima,Spartina,Poaceae,Poales,6,10,60,1
+Spergularia bocconei,Spergularia,Caryophyllaceae,Caryophyllales,2,9,36,1
+Spergularia marina,Spergularia,Caryophyllaceae,Caryophyllales,2,9,36,1
+Spergularia media,Spergularia,Caryophyllaceae,Caryophyllales,"2, 4",9,"18, 36",2
+Spergularia rubra,Spergularia,Caryophyllaceae,Caryophyllales,2,9,36,1
+Spergularia rupicola,Spergularia,Caryophyllaceae,Caryophyllales,2,9,36,1
+Spiraea alba,Spiraea,Rosaceae,Rosales,4,9,36,1
+Spiraea douglasii,Spiraea,Rosaceae,Rosales,4,9,36,1
+Spiraea salicifolia,Spiraea,Rosaceae,Rosales,4,9,36,1
+Spiranthes romanzoffiana,Spiranthes,Orchidaceae,Asparagales,4,15,60,1
+Spiranthes spiralis,Spiranthes,Orchidaceae,Asparagales,2,15,30,1
+Spirodela polyrhiza,Spirodela,Araceae,Alismatales,4,20,80,1
+Spirodela polyrrhiza,Spirodela,Araceae,Alismatales,2,20,40,1
+Stachys alpina,Stachys,Lamiaceae,Lamiales,2,15,30,1
+Stachys arvensis,Stachys,Lamiaceae,Lamiales,2,5,10,1
+Stachys officinalis,Stachys,Lamiaceae,Lamiales,2,8,16,1
+Stachys palustris,Stachys,Lamiaceae,Lamiales,6,17,"102, 103",1
+Stachys sylvatica,Stachys,Lamiaceae,Lamiales,8,8,64,1
+Stellaria graminea,Stellaria,Caryophyllaceae,Caryophyllales,2,13,26,1
+Stellaria holostea,Stellaria,Caryophyllaceae,Caryophyllales,2,13,26,1
+Stellaria media,Stellaria,Caryophyllaceae,Caryophyllales,"2, 4 (-4), 4",11,"22, 40, 44",2
+Stellaria nemorum,Stellaria,Caryophyllaceae,Caryophyllales,2,13,26,1
+Stellaria palustris,Stellaria,Caryophyllaceae,Caryophyllales,10,13,130,1
+Stellaria uliginosa,Stellaria,Caryophyllaceae,Caryophyllales,2,13,"24, 26",1
+Stuckenia filiformis,Stuckenia,Potamogetonaceae,Alismatales,6,13,78,1
+Stuckenia pectinata,Stuckenia,Potamogetonaceae,Alismatales,6,13,78,1
+Suaeda maritima,Suaeda,Amaranthaceae,Caryophyllales,4,9,36,1
+Suaeda vera,Suaeda,Amaranthaceae,Caryophyllales,4,9,36,1
+Succisa pratensis,Succisa,Caprifoliaceae,Dipsacales,2,10,20,1
+Symphyotrichum laeve,Symphyotrichum,Asteraceae,Asterales,6,8,48,1
+Symphyotrichum novi-belgii,Symphyotrichum,Asteraceae,Asterales,6,8,48,1
+Symphytum asperum,Symphytum,Boraginaceae,Boraginales,4,8,32,1
+Symphytum officinale,Symphytum,Boraginaceae,Boraginales,"3, 6 (-4), 6",8,"24, 44, 48",2
+Symphytum orientale,Symphytum,Boraginaceae,Boraginales,4,8,32,1
+Symphytum tuberosum,Symphytum,Boraginaceae,Boraginales,12,8,96,1
+Tanacetum parthenium,Tanacetum,Asteraceae,Asterales,2,9,18,1
+Tanacetum vulgare,Tanacetum,Asteraceae,Asterales,2,9,18,1
+Taraxacum brachyglossum,Taraxacum,Asteraceae,Asterales,"2, 3",8,"16, 24",2
+Teucrium scordium,Teucrium,Lamiaceae,Lamiales,2,17,32,1
+Teucrium scorodonia,Teucrium,Lamiaceae,Lamiales,2,17,"32, 34",1
+Thalictrum alpinum,Thalictrum,Ranunculaceae,Ranunculales,2,7,14,1
+Thalictrum flavum,Thalictrum,Ranunculaceae,Ranunculales,12,7,84,1
+Thalictrum minus,Thalictrum,Ranunculaceae,Ranunculales,6,7,42,1
+Thesium humifusum,Thesium,Santalaceae,Santalales,4,7,26,1
+Thlaspi arvense,Thlaspi,Brassicaceae,Brassicales,2,7,14,1
+Thlaspi caerulescens,Thlaspi,Brassicaceae,Brassicales,2,7,14,1
+Thlaspi macrophyllum,Thlaspi,Brassicaceae,Brassicales,2,7,14,1
+Thymus pulegioides,Thymus,Lamiaceae,Lamiales,12,14,28,1
+Thymus vulgaris,Thymus,Lamiaceae,Lamiales,2,15,30,1
+Tilia cordata,Tilia,Malvaceae,Malvales,2,41,82,1
+Tilia platyphyllos,Tilia,Malvaceae,Malvales,2,41,82,1
+Tofieldia pusilla,Tofieldia,Tofieldiaceae,Alismatales,2,15,30,1
+Torilis arvensis,Torilis,Apiaceae,Apiales,2,6,12,1
+Torilis japonica,Torilis,Apiaceae,Apiales,3,8,16,1
+Torilis nodosa,Torilis,Apiaceae,Apiales,2,11,24,1
+Tragopogon porrifolius,Tragopogon,Asteraceae,Asterales,2,6,12,1
+Tragopogon pratensis,Tragopogon,Asteraceae,Asterales,2,6,12,1
+Trifolium arvense,Trifolium,Fabaceae,Fabales,2,7,14,1
+Trifolium campestre,Trifolium,Fabaceae,Fabales,2,7,14,1
+Trifolium dubium,Trifolium,Fabaceae,Fabales,4,8,32,1
+Trifolium fragiferum,Trifolium,Fabaceae,Fabales,2,8,16,1
+Trifolium glomeratum,Trifolium,Fabaceae,Fabales,2,8,16,1
+Trifolium incarnatum,Trifolium,Fabaceae,Fabales,2,7,14,1
+Trifolium medium,Trifolium,Fabaceae,Fabales,10,8,80,1
+Trifolium ornithopodioides,Trifolium,Fabaceae,Fabales,2,9,18,1
+Trifolium pratense,Trifolium,Fabaceae,Fabales,2,7,14,1
+Trifolium scabrum,Trifolium,Fabaceae,Fabales,2,5,10,1
+Trifolium striatum,Trifolium,Fabaceae,Fabales,2,7,14,1
+Trifolium subterraneum,Trifolium,Fabaceae,Fabales,2,8,16,1
+Triglochin maritima,Triglochin,Juncaginaceae,Alismatales,8,6,48,1
+Triglochin palustris,Triglochin,Juncaginaceae,Alismatales,4,6,24,1
+Tripleurospermum inodorum,Tripleurospermum,Asteraceae,Asterales,"2, 4",9,"18, 36",2
+Tripleurospermum maritimum,Tripleurospermum,Asteraceae,Asterales,2,9,18,1
+Tripolium pannonicum,Tripolium,Asteraceae,Asterales,2,9,18,1
+Trisetum flavescens,Trisetum,Poaceae,Poales,4,7,28,1
+Triticum aestivum,Triticum,Poaceae,Poales,6,7,42,1
+Turritis glabra,Turritis,Brassicaceae,Brassicales,2,6,12,1
+Tussilago farfara,Tussilago,Asteraceae,Asterales,2,30,60,1
+Typha latifolia,Typha,Typhaceae,Poales,2,15,30,1
+Ulex europaeus,Ulex,Fabaceae,Fabales,6,16,96,1
+Ulex gallii,Ulex,Fabaceae,Fabales,"3, 4, 6",16,"48, 64, 96",3
+Ulex minor,Ulex,Fabaceae,Fabales,2,16,32,1
+Ulmus glabra,Ulmus,Ulmaceae,Rosales,2,14,28,1
+Ulmus minor,Ulmus,Ulmaceae,Rosales,2,14,28,1
+Urtica dioica,Urtica,Urticaceae,Rosales,4,13,52,1
+Urtica galeopsifolia,Urtica,Urticaceae,Rosales,2,13,26,1
+Urtica urens,Urtica,Urticaceae,Rosales,2,13,24,1
+Vaccinium microcarpum,Vaccinium,Ericaceae,Ericales,2,12,24,1
+Vaccinium myrtillus,Vaccinium,Ericaceae,Ericales,2,12,24,1
+Vaccinium uliginosum,Vaccinium,Ericaceae,Ericales,3,12,39,1
+Vaccinium vitis-idaea,Vaccinium,Ericaceae,Ericales,2,12,24,1
+Valeriana dioica,Valeriana,Caprifoliaceae,Dipsacales,2,8,16,1
+Valerianella dentata,Valerianella,Caprifoliaceae,Dipsacales,2,8,16,1
+Valerianella locusta,Valerianella,Caprifoliaceae,Dipsacales,2,8,16,1
+Verbascum nigrum,Verbascum,Scrophulariaceae,Lamiales,2,15,30,1
+Verbascum pulverulentum,Verbascum,Scrophulariaceae,Lamiales,2,16,32,1
+Verbascum pyramidatum,Verbascum,Scrophulariaceae,Lamiales,2,16,32,1
+Verbascum speciosum,Verbascum,Scrophulariaceae,Lamiales,2,14,28,1
+Verbascum virgatum,Verbascum,Scrophulariaceae,Lamiales,4,16,64,1
+Veronica agrestis,Veronica,Plantaginaceae,Lamiales,4,7,28,1
+Veronica alpina,Veronica,Plantaginaceae,Lamiales,2,9,18,1
+Veronica anagallis-aquatica,Veronica,Plantaginaceae,Lamiales,4,9,36,1
+Veronica arvensis,Veronica,Plantaginaceae,Lamiales,2,9,16,1
+Veronica beccabunga,Veronica,Plantaginaceae,Lamiales,2,9,18,1
+Veronica catenata,Veronica,Plantaginaceae,Lamiales,4,9,36,1
+Veronica chamaedrys,Veronica,Plantaginaceae,Lamiales,4,8,32,1
+Veronica hederifolia,Veronica,Plantaginaceae,Lamiales,6,9,54,1
+Veronica montana,Veronica,Plantaginaceae,Lamiales,2,9,18,1
+Veronica officinalis,Veronica,Plantaginaceae,Lamiales,4,9,36,1
+Veronica polita,Veronica,Plantaginaceae,Lamiales,2,7,14,1
+Veronica scutellata,Veronica,Plantaginaceae,Lamiales,2,9,18,1
+Veronica serpyllifolia,Veronica,Plantaginaceae,Lamiales,2,7,14,1
+Veronica verna,Veronica,Plantaginaceae,Lamiales,2,8,16,1
+Viburnum lantana,Viburnum,Adoxaceae,Dipsacales,2,9,18,1
+Viburnum opulus,Viburnum,Adoxaceae,Dipsacales,2,9,18,1
+Viburnum rhytidophyllum,Viburnum,Adoxaceae,Dipsacales,2,9,18,1
+Vicia bithynica,Vicia,Fabaceae,Fabales,2,7,14,1
+Vicia cracca,Vicia,Fabaceae,Fabales,4,7,28,1
+Vicia hirsuta,Vicia,Fabaceae,Fabales,2,7,14,1
+Vicia lathyroides,Vicia,Fabaceae,Fabales,2,6,"10, 12",1
+Vicia lutea,Vicia,Fabaceae,Fabales,2,7,14,1
+Vicia orobus,Vicia,Fabaceae,Fabales,2,6,12,1
+Vicia sativa,Vicia,Fabaceae,Fabales,2,6,12,1
+Vicia sepium,Vicia,Fabaceae,Fabales,2,7,14,1
+Vicia sylvatica,Vicia,Fabaceae,Fabales,2,7,14,1
+Vicia tetrasperma,Vicia,Fabaceae,Fabales,2,7,14,1
+Viola arvensis,Viola,Violaceae,Malpighiales,2,13,"26, 34",1
+Viola canina,Viola,Violaceae,Malpighiales,4,10,40,1
+Viola hirta,Viola,Violaceae,Malpighiales,2,10,20,1
+Viola lactea,Viola,Violaceae,Malpighiales,6,10,58,1
+Viola lutea,Viola,Violaceae,Malpighiales,5,10,"48, 50",1
+Viola odorata,Viola,Violaceae,Malpighiales,2,10,20,1
+Viola reichenbachiana,Viola,Violaceae,Malpighiales,2,10,20,1
+Viola riviniana,Viola,Violaceae,Malpighiales,"4, 5 (-2), 5",10,"40, 48, 50",2
+Viola rupestris,Viola,Violaceae,Malpighiales,2,10,20,1
+Viola tricolor,Viola,Violaceae,Malpighiales,2,13,26,1
+Viscum album,Viscum,Santalaceae,Santalales,2,10,20,1
+Vulpia australis,Vulpia,Poaceae,Poales,2,7,14,1
+Vulpia bromoides,Vulpia,Poaceae,Poales,2,7,14,1
+Vulpia ciliata,Vulpia,Poaceae,Poales,4,7,28,1
+Vulpia fasciculata,Vulpia,Poaceae,Poales,"4, 6",7,"28, 42",2
+Vulpia membranacea,Vulpia,Poaceae,Poales,4,7,28,1
+Vulpia myuros,Vulpia,Poaceae,Poales,6,7,42,1
+Vulpia unilateralis,Vulpia,Poaceae,Poales,2,7,14,1
+Wahlenbergia hederacea,Wahlenbergia,Campanulaceae,Asterales,4,9,36,1
+Wolffia arrhiza,Wolffia,Araceae,Alismatales,2,21,42,1
+Zostera angustifolia,Zostera,Zosteraceae,Alismatales,2,6,12,1
+Zostera marina,Zostera,Zosteraceae,Alismatales,2,6,12,1
+Zostera noltii,Zostera,Zosteraceae,Alismatales,2,6,12,1
