@@ -8,10 +8,35 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- <link rel="stylesheet" href=""> -->
         <!-- lwphylo + d3 -->
+        <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+                max-width: 680px;
+            }
+        </style>
     </head>
     <body>
+        <h1>Manuscript plots</h1>
+        <h2>Number of cross ploidy hybrids by plant family, in a phylogenetic context (British flora)</h2>
+        <p>
+            The distribution of cross ploidy hybrids across the British flora. The phylogenetic tree is drawn from the Barcode UK dataset, with species randomly sampled within family to represent the tips. 97 families of flowering plant are shown, along with three coniferous families. The bars show the number of hybrids formed per family, with the light portion of the bar representing hybrids formed from parental species with the same ploidy, whilst the dark portion of the bar represents hybrids formed from parental species with different ploidy levels. Faded family names indicate missing ploidy data, and red family names highlight those families which contain five or more different ploidy levels (considering both between and within species variation). Bracketed numbers are the number of cross ploidy hybrids formed per family.
+        </p>
         <div id="phylogeny_family_plot"></div>
+        <button id="download" onclick="downloadSVG('phylogeny_family_plot')">Download SVG</button>
+
+        <h2>Distribution of ploidy levels across plants (British flora)</h2>
         
+        <select class="family_select">
+
+        </select>
+        
+        <p>This plot shows the distribution of ploidy levels between species across the British flora. </p>
+
+        <div id="ploidy_distribution_plot"></div>
+        <button id="download" onclick="downloadSVG('ploidy_distribution_plot')">Download SVG</button>
+        
+        <script src="./download_svg.js"></script>
         <script src="./phylogeny_family_plot.js" type="module"></script>
+        <script src="./ploidy_distribution_plot.js" type="module"></script>
     </body>
 </html>
