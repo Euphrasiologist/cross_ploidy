@@ -124,8 +124,14 @@ function setup(FAMILY_DATA) {
     .range([m.left, h - m.bottom]);
 
   yAxisLeft1 = (g) =>
-    g.attr("transform", `translate(${m.left},0)`).call(d3.axisLeft(y1));
-  //   .call((g) => g.select(".domain").remove());
+    g.attr("transform", `translate(${m.left},0)`).call(
+      d3
+        .axisLeft(y1)
+        // to make sure we are only plotting integer tick marks
+        // see https://stackoverflow.com/a/56821215
+        .tickValues(y1.ticks().filter((tick) => Number.isInteger(tick)))
+        .tickFormat(d3.format("d"))
+    );
 
   // add the axes
   svg
