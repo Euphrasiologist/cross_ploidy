@@ -1,0 +1,20 @@
+digraph "Backcross triploid" {
+"♀
+4𝑥" -> "2𝑥" [label="  (gamete production)"]
+"♂
+2𝑥" -> "𝑥" 
+"3𝑥 F1 hybrid" [shape="box"]
+
+"𝑥" -> "3𝑥 F1 hybrid" 
+"2𝑥" -> "3𝑥 F1 hybrid" 
+
+"4𝑥 F1 backcross" [shape="box"]
+
+"3𝑥 F1 hybrid" -> "2𝑥 " [label=" (unreduced gamete)  "]
+"2𝑥" -> "4𝑥 F1 backcross" [style="dashed"]
+"2𝑥 " -> "4𝑥 F1 backcross"
+
+"♂
+2𝑥" -> "2𝑥 " [style ="dotted"]
+
+}

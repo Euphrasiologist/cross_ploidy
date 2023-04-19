@@ -1,0 +1,16 @@
+digraph "Diploid-tetraploid hybridisation" {
+"♀
+4𝑥" -> "2𝑥 " [xlabel="(gamete production)   "]
+"♂
+2𝑥" -> "2𝑥" [label="  (unreduced gamete production)"]
+"4𝑥 F1 hybrid" [shape="box"]
+"6𝑥 endosperm
+(2♀:1♂)" [shape="box", style="bold"]
+"2𝑥 " -> "4𝑥 F1 hybrid" 
+"2𝑥" -> "4𝑥 F1 hybrid" 
+"♀
+4𝑥" -> "6𝑥 endosperm
+(2♀:1♂)" [xlabel="4𝑥  "]
+"2𝑥" -> "6𝑥 endosperm
+(2♀:1♂)" [label="2𝑥"]
+}
