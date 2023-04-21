@@ -104,7 +104,7 @@ function setup(FAMILY_DATA) {
   d3.select("select.family_select")
     .on("change", () => update(FAMILY_DATA))
     .selectAll("option")
-    .data(["All"].concat(FAMILY_DATA.map((d) => d.Family).sort(d3.ascending)))
+    .data(FAMILY_DATA.map((d) => d.Family).sort(d3.ascending))
     .join("option")
     .attr("value", (d) => d)
     .text((d) => d);
