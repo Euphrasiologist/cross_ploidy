@@ -1,16 +1,16 @@
 digraph "Diploid hybridisation" {
-"♀
-2𝑥" -> "𝑥 " [xlabel="(gamete production)   "]
-"♂
-2𝑥" -> "𝑥" 
-"2𝑥 F1 hybrid" [shape="box"]
-"3𝑥 endosperm
-(2♀:1♂)" [shape="box", style="bold"]
-"𝑥 " -> "2𝑥 F1 hybrid" 
-"𝑥" -> "2𝑥 F1 hybrid" 
-"♀
-2𝑥" -> "3𝑥 endosperm
-(2♀:1♂)" [xlabel="2𝑥  "]
-"𝑥" -> "3𝑥 endosperm
-(2♀:1♂)" [label="𝑥"]
+    // nodes
+    maternal [ label = "♀\n2𝑥" class = "business_as_usual hybrid_outcome endosperm_outcome" ]
+    maternal_gamete [ label = "𝑥" class = "business_as_usual hybrid_outcome" ]
+    paternal [ label = "♂\n2𝑥" class = "business_as_usual hybrid_outcome endosperm_outcome" ]
+    paternal_gamete [ label = "𝑥" class = "business_as_usual hybrid_outcome endosperm_outcome" ]
+    hybrid_outcome [ label = "2𝑥 F1 hybrid" shape = "box" class = "business_as_usual hybrid_outcome onhover" ]
+    endosperm [ label = "3𝑥 endosperm\n(2♀:1♂)" shape = "box" style = "bold" class = "business_as_usual endosperm_outcome onhover" ]
+    // edges
+    maternal -> maternal_gamete [xlabel="(gamete production)   " class = "business_as_usual hybrid_outcome" ]
+    paternal -> paternal_gamete [ class = "business_as_usual hybrid_outcome endosperm_outcome" ]
+    maternal_gamete -> hybrid_outcome [ class = "business_as_usual hybrid_outcome" ]
+    paternal_gamete -> hybrid_outcome [ class = "business_as_usual hybrid_outcome" ]
+    maternal -> endosperm [ xlabel="2𝑥  " class = "business_as_usual endosperm_outcome" ]
+    paternal_gamete -> endosperm [ label="𝑥" class = "business_as_usual endosperm_outcome" ]
 }

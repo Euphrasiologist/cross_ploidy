@@ -1,16 +1,16 @@
-digraph "Diploid-tetraploid hybridisation" {
-"♀
-2𝑥" -> "𝑥" [xlabel="  (gamete production)"]
-"♂
-4𝑥" -> "2𝑥" 
-"3𝑥 F1 hybrid" [shape="box"]
-"4𝑥 endosperm
-(1♀:1♂)" [shape="box", style="bold"]
-"𝑥" -> "3𝑥 F1 hybrid" 
-"2𝑥" -> "3𝑥 F1 hybrid" 
-"♀
-2𝑥" -> "4𝑥 endosperm
-(1♀:1♂)" [xlabel="2𝑥  "]
-"2𝑥" -> "4𝑥 endosperm
-(1♀:1♂)" [label="2𝑥"]
+digraph "Diploid-tetraploid hybridisation2" {
+    // nodes
+    maternal [ label = "♀\n2𝑥" class = "diploid_tetraploid_hybridisation2 hybrid_outcome endosperm_outcome" ]
+    maternal_gamete [ label = "𝑥" class = "diploid_tetraploid_hybridisation2 hybrid_outcome" ]
+    paternal [ label = "♂\n4𝑥" class = "diploid_tetraploid_hybridisation2 hybrid_outcome endosperm_outcome" ]
+    paternal_gamete [ label = "2𝑥" class = "diploid_tetraploid_hybridisation2 hybrid_outcome endosperm_outcome" ]
+    hybrid_outcome [ label = "3𝑥 F1 hybrid" shape = "box" class = "diploid_tetraploid_hybridisation2 hybrid_outcome onhover" ]
+    endosperm [ label = "4𝑥 endosperm\n(1♀:1♂)" shape = "box" style = "bold" class = "diploid_tetraploid_hybridisation2 endosperm_outcome onhover" ]
+    // edges
+    maternal -> maternal_gamete [xlabel="(gamete production)   " class = "diploid_tetraploid_hybridisation2 hybrid_outcome" ]
+    paternal -> paternal_gamete [ class = "diploid_tetraploid_hybridisation2 hybrid_outcome endosperm_outcome" ]
+    maternal_gamete -> hybrid_outcome [ class = "diploid_tetraploid_hybridisation2 hybrid_outcome" ]
+    paternal_gamete -> hybrid_outcome [ class = "diploid_tetraploid_hybridisation2 hybrid_outcome" ]
+    maternal -> endosperm [ xlabel="2𝑥  " class = "diploid_tetraploid_hybridisation2 endosperm_outcome" ]
+    paternal_gamete -> endosperm [ label=" 2𝑥" class = "diploid_tetraploid_hybridisation2 endosperm_outcome" ]
 }
