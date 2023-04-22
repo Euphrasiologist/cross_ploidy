@@ -109,36 +109,6 @@
     <script src="./phylogeny_family_plot.js" type="module"></script>
     <script src="./ploidy_distribution_plot.js" type="module"></script>
     <script src="./add_graphviz_svg_inline.js" type="module"></script>
-
-    <script>
-        // all the elements to iterate over
-        const hybrid_outcome_elements = document.getElementsByClassName("hybrid_outcome");
-        const endosperm_elements = document.getElementsByClassName("endosperm_outcome");
-
-        function changeStyle(elements, color) {
-            for (var i = 0; i < elements.length; i++) {
-                let el = elms[i].querySelector("polygon");
-                console.log(el)
-                el.style.fill == color;
-            }
-        }
-
-        // now just select the element which we will hover over
-        let hover_elements = document.getElementsByClassName("onhover");
-
-        for (let i = 0; i < hover_elements.length; i++) {
-            hover_elements[i].onmouseover = function () {
-                changeStyle(hybrid_outcome_elements, "yellow");
-            };
-            hover_elements[i].onmouseout = function () {
-                changeStyle(hybrid_outcome_elements, "white");
-            };
-        }
-
-
-        console.log(hover_elements);
-        console.log(endosperm_elements);
-    </script>
 </body>
 
 </html>
