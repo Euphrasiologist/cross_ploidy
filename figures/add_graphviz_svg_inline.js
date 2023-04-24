@@ -12,7 +12,7 @@ const files = {
   "./crosses/diploid_tetraploid_hybridisation4.svg":
     "diploid_tetraploid_hybridisation4",
   // TODO: these last graphs
-  // "./crosses/backcross_triploid1.svg": "",
+  "./crosses/backcross_triploid1.svg": "backcross_triploid1",
   // "./crosses/backcross_triploid2.svg": "",
 };
 
@@ -33,33 +33,32 @@ for (const key in files) {
         document.getElementsByClassName("hybrid_outcome");
       const endosperm_elements =
         document.getElementsByClassName("endosperm_outcome");
+      const hexaploid_elements = document.getElementsByClassName("hexaploid");
+      const backcross_elements = document.getElementsByClassName("backcross");
 
+      // change the style of the node/path elements
       function changeStyle(elements, arrow_color, ellipse_color) {
         let originalArrowColor, originalEllipseColor;
         for (var i = 0; i < elements.length; i++) {
           // because the nodes are in a <g> element.
           let el = elements[i].querySelector(":nth-child(2)");
+          let el2 = elements[i].querySelector(":nth-child(3)");
           if (el.nodeName == "path") {
-            originalArrowColor =
-              elements[i].querySelector(":nth-child(2)").style.stroke;
+            originalArrowColor = el.style.stroke;
             // path element
-            elements[i].querySelector(":nth-child(2)").style.stroke =
-              arrow_color;
+            el.style.stroke = arrow_color;
             // arrowhead
-            elements[i].querySelector(":nth-child(3)").style.fill = arrow_color;
-            elements[i].querySelector(":nth-child(3)").style.stroke =
-              arrow_color;
+            el2.style.fill = arrow_color;
+            el2.style.stroke = arrow_color;
           } else {
-            originalEllipseColor =
-              elements[i].querySelector(":nth-child(2)").style.fill;
-            elements[i].querySelector(":nth-child(2)").style.fill =
-              ellipse_color;
+            originalEllipseColor = el.style.fill;
+            el.style.fill = ellipse_color;
           }
         }
         return [originalArrowColor, originalEllipseColor];
       }
 
-      //
+      // add the style changes to a mouseover event on the node of interest.
       function createMouseEvents(hover_elements, all_elements) {
         // get the length of the elements
         let n = hover_elements.length;
@@ -96,8 +95,16 @@ for (const key in files) {
       let endosperm_hover_elements = document.getElementsByClassName(
         "endosperm_outcome onhover"
       );
+      let hexaploid_hover_elements =
+        document.getElementsByClassName("hexaploid onhover");
+      let backcross_hover_elements =
+        document.getElementsByClassName("backcross onhover");
+
+      // actually add the mouse events
       createMouseEvents(hybrid_outcome_hover_elements, hybrid_outcome_elements);
       createMouseEvents(endosperm_hover_elements, endosperm_elements);
+      createMouseEvents(hexaploid_hover_elements, hexaploid_elements);
+      createMouseEvents(backcross_hover_elements, backcross_elements);
     })
     .catch(console.error.bind(console));
 }
