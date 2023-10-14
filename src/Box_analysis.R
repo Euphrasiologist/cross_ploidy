@@ -8,9 +8,13 @@ library(data.table)
 # from Stace et al., Hybrid Flora of the British Isles
 hybrid_flora <- fread("./data/HybridFlora230620.csv")
 
+# get the proper columns
 hybrid_flora_ploidy <- hybrid_flora[, .(
+    # first parent
     PA = `Parent A`,
+    # second parent
     PB = `Parent B`,
+    # ploidies and chromosome numbers
     PlA = as.integer(`Ploidy A`),
     PlB = as.integer(`Ploidy B`),
     CNA = as.integer(`Chromosome number A`),
@@ -18,8 +22,9 @@ hybrid_flora_ploidy <- hybrid_flora[, .(
 )][!is.na(PlA) | !is.na(PlB)]
 # subset
 cross_ploidy_hybrids <- hybrid_flora_ploidy[PA != PB][PlA != PlB]
-#  not sure I need this yet
-# fwrite(cross_ploidy_hybrids, "./203_CP_hybrids.csv")
+# not sure I need this yet
+# Richard thought this would be useful, so add into supplementary
+fwrite(cross_ploidy_hybrids, "./data/203_CP_hybrids.csv")
 
 
 same_ploidy_hybrids <- hybrid_flora_ploidy[PA != PB][PlA == PlB]
@@ -28,26 +33,26 @@ cross_ploidy_hybrids[, Genus := gsub(" .*", "", PA)]
 same_ploidy_hybrids[, Genus := gsub(" .*", "", PA)]
 
 get_families <- data.table(
-    Genus = taxonlookup::lookup_table(
-        species_list = cross_ploidy_hybrids$Genus
-    )[, 1],
-    Family = taxonlookup::lookup_table(
-        species_list = cross_ploidy_hybrids$Genus
-    )[, 2]
+  Genus = taxonlookup::lookup_table(
+    species_list = cross_ploidy_hybrids$Genus
+  )[, 1],
+  Family = taxonlookup::lookup_table(
+    species_list = cross_ploidy_hybrids$Genus
+  )[, 2]
 )
 get_families2 <- data.table(
-    Genus = taxonlookup::lookup_table(
-        species_list = same_ploidy_hybrids$Genus
-    )[, 1],
-    Family = taxonlookup::lookup_table(
-        species_list = same_ploidy_hybrids$Genus
-    )[, 2]
+  Genus = taxonlookup::lookup_table(
+    species_list = same_ploidy_hybrids$Genus
+  )[, 1],
+  Family = taxonlookup::lookup_table(
+    species_list = same_ploidy_hybrids$Genus
+  )[, 2]
 )
 
 
 cross_ploidy_hybrids <- cross_ploidy_hybrids[get_families, on = .(Genus)]
 ## quick look at hybrids
-cross_ploidy_hybrids[, .(.N), by = .(Genus)][order(-N)]
+# cross_ploidy_hybrids[, .(.N), by = .(Genus)][order(-N)]
 
 same_ploidy_hybrids <- same_ploidy_hybrids[get_families2, on = .(Genus)]
 
@@ -61,8 +66,8 @@ tips_and_fam <- data.table(Species = tree.3.stace4$tip.label)
 tips_and_fam[, Genus := gsub("_.*", "", Species)]
 
 get_families2 <- data.table(
-    Genus = taxonlookup::lookup_table(species_list = tips_and_fam$Genus)[, 1],
-    Family = taxonlookup::lookup_table(species_list = tips_and_fam$Genus)[, 2]
+  Genus = taxonlookup::lookup_table(species_list = tips_and_fam$Genus)[, 1],
+  Family = taxonlookup::lookup_table(species_list = tips_and_fam$Genus)[, 2]
 )
 
 tree_families <- tips_and_fam[get_families2, on = .(Genus)]

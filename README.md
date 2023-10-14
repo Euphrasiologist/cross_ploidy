@@ -13,3 +13,19 @@ python3 -m http.server
 ```
 
 In the home directory (where this README is). Then open `./figures/phylogeny_family_plot.html`.
+
+# Analysis
+
+Run the analyses with:
+
+```bash
+Rscript ./src/Box_analysis.R
+```
+
+You may need to download the packages:
+
+```R
+library(taxonlookup)
+library(ape)
+library(data.table)
+```
