@@ -137,3 +137,82 @@ assoc_data_updat[, No_Ploidies := ifelse(is.na(No_Ploidies), -1, No_Ploidies)]
 # actual data for the plot!
 # I.e. Figure 4
 fwrite(x = assoc_data_updat, file = "./data/Cross_ploidy_families.csv")
+
+# chisq analysis of expected hybridisation
+
+assoc_data_updat <- fread("./data/Cross_ploidy_families.csv")
+all_ploidies_uniq <- unique(all_ploidies)
+genus_family <- unique(all_ploidies_uniq[, .(Genus, Family)])
+
+expected <- all_ploidies_uniq[Genus %in% all_ploidies_uniq[, .(.N), by = .(Genus)][N > 1]$Genus][
+  , .( {
+    # get all combinations of species
+    sp <- combn(paste0(Species, "--", Ploidy), 2)
+    tsp <- as.data.table(t(sp))
+    # extract ploidy
+    tsp[, V1P := gsub(".*--(.*)", "\\1", V1)]
+    tsp[, V2P := gsub(".*--(.*)", "\\1", V2)]
+    # remove from original columns
+    tsp[, V1 := gsub("(.*)--.*", "\\1", V1)]
+    tsp[, V2 := gsub("(.*)--.*", "\\1", V2)]
+    # filter out where sp1 == sp2
+    tsp <- tsp[V1 != V2]
+    paste(sum(tsp$V1P == tsp$V2P), sum(tsp$V1P != tsp$V2P), sep = "/")
+  }), by = .(Genus)
+]
+
+expected[, N_same := as.numeric(gsub("/.*", "", V1))]
+expected[, N_cross := as.numeric(gsub(".*/", "", V1))]
+expected[,V1 := NULL]
+
+expected2 <- expected[genus_family, on = .(Genus)]
+# remove Rubus... all those microspecies!
+expected2 <- expected2[Genus != "Rubus"]
+
+expected_props <- expected2[, .(N_same_ex = sum(N_same, na.rm = TRUE),# / (sum(N_cross, na.rm = TRUE) + sum(N_same, na.rm = TRUE)),
+              N_cross_ex = sum(N_cross, na.rm = TRUE)# / (sum(N_cross, na.rm = TRUE) + sum(N_same, na.rm = TRUE))
+              ), by = .(Family)]
+observed_props <- assoc_data_updat[, .(Family, N_same, N_cross)]
+
+obs_exp_final <- observed_props[expected_props, on = .(Family)]#[!is.nan(prop_same_ex)][!is.na(N_same_prop)]
+# remove all zero entries
+obs_exp_final <- obs_exp_final[!(N_same == 0 & N_cross == 0 & N_same_ex == 0 & N_cross_ex == 0)]
+obs_exp_final <- obs_exp_final[!is.na(N_same)]
+# remove iridaceae
+obs_exp_final <- obs_exp_final[!Family %in% c("Iridaceae", "Asparagaceae", "Cucurbitaceae", "Campanulaceae", "Cyperaceae", "Liliaceae", "Linaceae", "Haloragaceae", "Grossulariaceae", "Ruppiaceae", "Crassulaceae", "Juncaginaceae", "Urticaceae", "Zosteraceae")]
+
+cross_ploidy_expected <- list()
+
+for(i in 1:nrow(obs_exp_final)) {
+  mat <- as.matrix(obs_exp_final[i, -1], nrow = 2, byrow = TRUE)
+  test <- chisq.test(c(mat[1], mat[2]), p = c(mat[3] / (mat[3] + mat[4]), mat[4] / (mat[3] + mat[4])))
+  if (!is.nan(test$p.value)) {
+      index <- index + 1
+      row <- c(obs_exp_final[i], test$p.value)
+      cross_ploidy_expected[[i]] <- row 
+    }
+}
+
+cross_ploidy_expected <- rbindlist(cross_ploidy_expected)
+
+f <- function(a, b) {
+  a / (a + b)
+}
+
+cross_ploidy_expected[, 
+  test := fifelse(V1 < 0.05, {t1 <- f(N_same, N_cross); t2 <- f(N_same_ex, N_cross_ex); fifelse(t1 > t2, "More same ploidy crosses", "More cross ploidy crosses")}, "Not significant")
+]
+
+setnames(cross_ploidy_expected, 
+         new = c("Family",
+                 "Number of same ploidy crosses",
+                 "Number of cross ploidy crosses",
+                 "Expected number of same ploidy crosses",
+                 "Expected number of cross ploidy crosses",
+                 "P-value from Chi-Square test",
+                 "Cross bias"
+                 )
+         )
+
+fwrite(cross_ploidy_expected, file = "./data/cross_ploidy_expected.tsv", sep = "\t")
+

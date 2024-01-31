@@ -1,0 +1,37 @@
+Family	Number of same ploidy crosses	Number of cross ploidy crosses	Expected number of same ploidy crosses	Expected number of cross ploidy crosses	P-value from Chi-Square test	Cross bias
+Rosaceae	31	27	186	397	0.000431267695380162	More same ploidy crosses
+Asteraceae	26	12	102	109	0.0132503046835023	More same ploidy crosses
+Ranunculaceae	5	8	115	142	0.64854874432943	Not significant
+Poaceae	17	19	132	551	2.24680020566292e-05	More same ploidy crosses
+Lamiaceae	7	9	17	47	0.119563558824374	Not significant
+Brassicaceae	0	6	25	59	0.110828116862791	Not significant
+Amaryllidaceae	1	0	8	18	0.133614402537715	Not significant
+Betulaceae	2	2	3	2	0.683091398309609	Not significant
+Amaranthaceae	6	1	68	85	0.0279918154856657	More same ploidy crosses
+Orchidaceae	30	19	38	19	0.419020333534316	Not significant
+Primulaceae	4	0	10	6	0.121335250358483	Not significant
+Boraginaceae	1	2	2	11	0.388885411807765	Not significant
+Apiaceae	3	0	31	2	0.659979589866018	Not significant
+Fabaceae	1	2	106	60	0.271153662026383	Not significant
+Caryophyllaceae	6	2	99	53	0.558072151882131	Not significant
+Plumbaginaceae	1	1	16	18	0.933586496294755	Not significant
+Araceae	0	1	1	1	0.317310507862914	Not significant
+Rubiaceae	1	0	35	93	0.103085753579562	Not significant
+Saxifragaceae	5	0	27	79	0.000130841170719301	More same ploidy crosses
+Solanaceae	1	1	5	6	0.897278961260083	Not significant
+Orobanchaceae	64	13	210	95	0.00687399760409564	More same ploidy crosses
+Gentianaceae	4	0	6	9	0.0143058784354296	More same ploidy crosses
+Scrophulariaceae	16	2	7	8	0.000329838520777994	More same ploidy crosses
+Plantaginaceae	5	0	56	67	0.0144514334606069	More same ploidy crosses
+Papaveraceae	1	1	15	39	0.482899697780192	Not significant
+Droseraceae	1	1	1	2	0.617075077451974	Not significant
+Ericaceae	5	1	24	4	0.867632334778193	Not significant
+Geraniaceae	1	3	78	49	0.134595494582389	Not significant
+Euphorbiaceae	1	0	16	27	0.193930852282411	Not significant
+Polygonaceae	11	29	40	147	0.346029794889811	Not significant
+Hypericaceae	3	0	18	18	0.0832645166635506	Not significant
+Juncaceae	2	5	42	101	0.962971193716192	Not significant
+Polygalaceae	0	2	3	6	0.317310507862914	Not significant
+Salicaceae	27	19	129	138	0.158848716531225	Not significant
+Potamogetonaceae	20	6	44	48	0.00297672754649397	More same ploidy crosses
+Violaceae	2	5	17	37	0.868334229511197	Not significant

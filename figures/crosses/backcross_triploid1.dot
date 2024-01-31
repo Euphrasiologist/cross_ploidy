@@ -6,16 +6,16 @@ digraph "Backcross triploid1" {
     paternal_gamete [ label = "𝑥" class = "backcross_triploid_1 hexaploid backcross" ]
     hybrid_outcome_1 [ label =  "3𝑥 F1 hybrid" shape = "box" class = "backcross_triploid_1 hexaploid backcross" ]
     hybrid_outcome_1_gamete [ label = "𝑥" class = "backcross_triploid_1 backcross" ]
-    hybrid_outcome_2 [ label =  "6𝑥 polyploid species" shape = "box" class = "backcross_triploid_1 hexaploid onhover" ]
-    hybrid_outcome_3 [ label =  "2𝑥 F2 backcross" shape = "box" class = "backcross_triploid_1 backcross onhover" ]
+    // hybrid_outcome_2 [ label =  "6𝑥 polyploid species" shape = "box" class = "backcross_triploid_1 hexaploid onhover" ]
+    hybrid_outcome_3 [ label =  "2𝑥 F1 backcross" shape = "box" class = "backcross_triploid_1 backcross onhover" ]
 
     // edges
     maternal -> maternal_gamete [label="  (gamete production)" class = "backcross_triploid_1 hexaploid backcross" ]
     paternal -> paternal_gamete [ class = "backcross_triploid_1 hexaploid backcross" ]
     maternal_gamete -> hybrid_outcome_1 [ class = "backcross_triploid_1 hexaploid backcross" ]
     paternal_gamete -> hybrid_outcome_1 [ class = "backcross_triploid_1 hexaploid backcross" ]
-    hybrid_outcome_1 -> hybrid_outcome_2 [ class = "backcross_triploid_1 hexaploid" ]
-    hybrid_outcome_1 -> hybrid_outcome_1_gamete [ class = "backcross_triploid_1 backcross" label = " (reduced gamete)  "]
+    // hybrid_outcome_1 -> hybrid_outcome_2 [ class = "backcross_triploid_1 hexaploid" ]
+    hybrid_outcome_1 -> hybrid_outcome_1_gamete [ class = "backcross_triploid_1 backcross" label = "← (reduced gametes) → "]
     hybrid_outcome_1_gamete -> hybrid_outcome_3 [ class = "backcross_triploid_1 backcross" ]
-    paternal_gamete -> hybrid_outcome_3 [ class = "backcross_triploid_1 backcross" style="dashed" ]
+    paternal_gamete -> hybrid_outcome_3 [ class = "backcross_triploid_1 backcross" ]
 }

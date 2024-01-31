@@ -13,7 +13,7 @@ const files = {
     "diploid_tetraploid_hybridisation4",
   // TODO: these last graphs
   "./crosses/backcross_triploid1.svg": "backcross_triploid1",
-  // "./crosses/backcross_triploid2.svg": "",
+  "./crosses/backcross_triploid2.svg": "backcross_triploid2"
 };
 
 // add all the SVG inline
@@ -27,7 +27,7 @@ for (const key in files) {
       let el = document.getElementById(div_id);
       el.innerHTML = text;
     })
-    .then((d) => {
+    .then((_) => {
       // all the elements to iterate over
       const hybrid_outcome_elements =
         document.getElementsByClassName("hybrid_outcome");

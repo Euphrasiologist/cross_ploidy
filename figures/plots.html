@@ -2,120 +2,123 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Phylogeny family plot</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            max-width: 680px;
-            width: 75%;
-        }
-    </style>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Phylogeny family plot</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      max-width: 680px;
+      width: 75%;
+    }
+  </style>
 </head>
 
 <body>
-    <h1>Manuscript plots</h1>
-    <h2>Number of cross ploidy hybrids by plant family, in a phylogenetic context (British flora)</h2>
-    <p>
-        The distribution of cross ploidy hybrids across the British flora. The phylogenetic tree is drawn from the
-        Barcode UK dataset, with species randomly sampled within family to represent the tips. 97 families of flowering
-        plant are shown, along with three coniferous families. The bars show the number of hybrids formed per family,
-        with the light portion of the bar representing hybrids formed from parental species with the same ploidy, whilst
-        the dark portion of the bar represents hybrids formed from parental species with different ploidy levels. Faded
-        family names indicate missing ploidy data, and red family names highlight those families which contain five or
-        more different ploidy levels (considering both between and within species variation). Bracketed numbers are the
-        number of cross ploidy hybrids formed per family.
-    </p>
-    <div id="phylogeny_family_plot"></div>
-    <button id="download" onclick="downloadSVG('phylogeny_family_plot')">Download SVG</button>
+  <h1>Manuscript plots</h1>
+  <h2>Number of cross ploidy hybrids by plant family, in a phylogenetic context (British flora)</h2>
+  <p>
+    The distribution of cross ploidy hybrids across the British flora. The phylogenetic tree is drawn from the
+    Barcode UK dataset, with species randomly sampled within family to represent the tips. 97 families of flowering
+    plant are shown, along with three coniferous families. The bars show the number of hybrids formed per family,
+    with the light portion of the bar representing hybrids formed from parental species with the same ploidy, whilst
+    the dark portion of the bar represents hybrids formed from parental species with different ploidy levels. Faded
+    family names indicate missing ploidy data, and red family names highlight those families which contain five or
+    more different ploidy levels (considering both between and within species variation). Bracketed numbers are the
+    number of cross ploidy hybrids formed per family.
+  </p>
+  <div id="phylogeny_family_plot"></div>
+  <button id="download" onclick="downloadSVG('phylogeny_family_plot')">Download SVG</button>
 
-    <h2>Distribution of ploidy levels across plants (British flora)</h2>
+  <h2>Distribution of ploidy levels across plants (British flora)</h2>
 
-    <select class="family_select">
+  <select class="family_select">
 
-    </select>
+  </select>
 
-    <p>This plot shows the distribution of ploidy levels between species across the British flora. Select the family
-        from the dropdown - in the manuscript we display Asteraceae, Fabaceae, Poaceae, and Rosaceae.</p>
+  <p>This plot shows the distribution of ploidy levels between species across the British flora. Select the family
+    from the dropdown - in the manuscript we display Asteraceae, Fabaceae, Poaceae, and Rosaceae.</p>
 
-    <div id="ploidy_distribution_plot"></div>
-    <button id="download" onclick="downloadSVG('ploidy_distribution_plot')">Download SVG</button>
+  <div id="ploidy_distribution_plot"></div>
+  <button id="download" onclick="downloadSVG('ploidy_distribution_plot')">Download SVG</button>
 
-    <h2>Crossing diagrams in cross ploidy hybridisation</h2>
+  <h2>Crossing diagrams in cross ploidy hybridisation</h2>
 
-    <p>Cross ploidy (interploidy, or heteroploid) hybridisation, is a phenomenon where two individuals of different
-        ploidy level hybridise. Ploidy level refers to the number of copies of the chromosome complement in every cell
-        in an organism. Cross ploidy hybridisation, if it can form a hybrid, has diverse consequences for related
-        lineages.</p>
+  <p>Cross ploidy (interploidy, or heteroploid) hybridisation, is a phenomenon where two individuals of different
+    ploidy level hybridise. Ploidy level refers to the number of copies of the chromosome complement in every cell
+    in an organism. Cross ploidy hybridisation, if it can form a hybrid, has diverse consequences for related
+    lineages.</p>
 
-    <p>These graphs hopefully show that:
-    <ul>
-        <li>Parental contributions to endosperm change in reciprocal crosses</li>
-        <li>This means that crosses where the higher ploidy is the female parent are more likely</li>
-        <li>Unreduced gametes can produce a tetraploid F1 hybrid in a single generation</li>
-        <li>Triploids can backcross to produce diploid or tetraploid F2's. Tetraploid F2 formation is probably favoured
-            because both parents can contribute to the formation of a tetraploid</li>
-    </ul>
-    </p>
+  <p>These graphs hopefully show that:
+  <ul>
+    <li>Parental contributions to endosperm change in reciprocal crosses</li>
+    <li>This means that crosses where the higher ploidy is the female parent are more likely</li>
+    <li>Unreduced gametes can produce a tetraploid F1 hybrid in a single generation</li>
+    <li>Triploids can backcross to produce diploid or tetraploid F2's. Tetraploid F2 formation is probably favoured
+      because both parents can contribute to the formation of a tetraploid</li>
+  </ul>
+  </p>
 
-    <h3>Business as usual</h3>
-    <p>Here we have the situation where both male and female parents are diploid, so directionality of the hybridisation
-        does not matter. Each parent produces haploid (𝑥) gametes. The female parent contributes a diploid (2𝑥,
-        unreduced) genome to the endosperm (bold box) and the male parent contributes a haploid genome. The hybrid
-        resulting from this cross is a first generation diploid (2𝑥) hybrid. Usually viable.</p>
+  <h3>Business as usual</h3>
+  <p>Here we have the situation where both male and female parents are diploid, so directionality of the hybridisation
+    does not matter. Each parent produces haploid (𝑥) gametes. The female parent contributes a diploid (2𝑥,
+    unreduced) genome to the endosperm (bold box) and the male parent contributes a haploid genome. The hybrid
+    resulting from this cross is a first generation diploid (2𝑥) hybrid. Usually viable.</p>
 
-    <div id="business_as_usual"></div>
-    <button id="download" onclick="downloadSVG('business_as_usual')">Download SVG</button>
+  <div id="business_as_usual"></div>
+  <button id="download" onclick="downloadSVG('business_as_usual')">Download SVG</button>
 
-    <h3>Diploid-tetraploid hybridisation (reduced 𝑥)</h3>
-    <p>In this second scenario, a tetraploid female hybridises with a diploid male plant. Normal, unreduced gametes are
-        formed. In this case, a triploid hybrid is hypothetically formed (left box). Due to the imbalance in the genomic
-        contribution of the parents to the endosperm (4 parts female, 1 part male), a phenomenon known as 'triploid
-        block' might occur. Sometimes viable.</p>
+  <h3>Diploid-tetraploid hybridisation (reduced 𝑥)</h3>
+  <p>In this second scenario, a tetraploid female hybridises with a diploid male plant. Normal, unreduced gametes are
+    formed. In this case, a triploid hybrid is hypothetically formed (left box). Due to the imbalance in the genomic
+    contribution of the parents to the endosperm (4 parts female, 1 part male), a phenomenon known as 'triploid
+    block' might occur. Sometimes viable.</p>
 
-    <div id="diploid_tetraploid_hybridisation1"></div>
-    <button id="download" onclick="downloadSVG('diploid_tetraploid_hybridisation1')">Download SVG</button>
+  <div id="diploid_tetraploid_hybridisation1"></div>
+  <button id="download" onclick="downloadSVG('diploid_tetraploid_hybridisation1')">Download SVG</button>
 
-    <h3>Diploid-tetraploid hybridisation (reduced 𝑥) second scendario</h3>
-    <p>Although a triploid F1 is still
-        hypothetically formed, the endosperm contribution from the parents is of a very different ratio and ploidy
-        level. Inviable.</p>
+  <h3>Diploid-tetraploid hybridisation (reduced 𝑥) second scendario</h3>
+  <p>Although a triploid F1 is still
+    hypothetically formed, the endosperm contribution from the parents is of a very different ratio and ploidy
+    level. Inviable.</p>
 
-    <div id="diploid_tetraploid_hybridisation2"></div>
-    <button id="download" onclick="downloadSVG('diploid_tetraploid_hybridisation2')">Download SVG</button>
+  <div id="diploid_tetraploid_hybridisation2"></div>
+  <button id="download" onclick="downloadSVG('diploid_tetraploid_hybridisation2')">Download SVG</button>
 
-    <h3>Diploid-tetraploid hybridisation (unreduced 𝑥)</h3>
-    <p>The first scenario in a diploid-tetraploid cross where the diploid parent produces unreduced (2𝑥) gametes
-        instead of the normal haploid (𝑥) gametes. The hybrid which is formed is a tetraploid formed in a single
-        generation. This cross is of importance firstly because in one step, the fertility of a tetraploid F1 hybrid is
-        much higher than that of a triploid F1 hybrid. Secondly, the endosperm ratio has been restored, allowing for
-        normal endosperm development. Viable F1.</p>
+  <h3>Diploid-tetraploid hybridisation (unreduced 𝑥)</h3>
+  <p>The first scenario in a diploid-tetraploid cross where the diploid parent produces unreduced (2𝑥) gametes
+    instead of the normal haploid (𝑥) gametes. The hybrid which is formed is a tetraploid formed in a single
+    generation. This cross is of importance firstly because in one step, the fertility of a tetraploid F1 hybrid is
+    much higher than that of a triploid F1 hybrid. Secondly, the endosperm ratio has been restored, allowing for
+    normal endosperm development. Viable F1.</p>
 
-    <div id="diploid_tetraploid_hybridisation3"></div>
-    <button id="download" onclick="downloadSVG('diploid_tetraploid_hybridisation3')">Download SVG</button>
+  <div id="diploid_tetraploid_hybridisation3"></div>
+  <button id="download" onclick="downloadSVG('diploid_tetraploid_hybridisation3')">Download SVG</button>
 
-    <h3>Diploid-tetraploid hybridisation (unreduced 𝑥) second scenario</h3>
-    <p>Here, the female produced normal reduced gametes while the
-        male pollen produced unreduced tetraploid gametes. This results in a pentaploid hybrid, with endosperm
-        imbalance. Probably inviable?</p>
+  <h3>Diploid-tetraploid hybridisation (unreduced 𝑥) second scenario</h3>
+  <p>Here, the female produced normal reduced gametes while the
+    male pollen produced unreduced tetraploid gametes. This results in a pentaploid hybrid, with endosperm
+    imbalance. Probably inviable?</p>
 
-    <div id="diploid_tetraploid_hybridisation4"></div>
-    <button id="download" onclick="downloadSVG('diploid_tetraploid_hybridisation4')">Download SVG</button>
+  <div id="diploid_tetraploid_hybridisation4"></div>
+  <button id="download" onclick="downloadSVG('diploid_tetraploid_hybridisation4')">Download SVG</button>
 
-    <h3>Backcross to triploid (scenario 1)</h3>
-    <p>There are multiple possibilities at this stage. One possibility is that the triploid (3𝑥) F1 hybrid will
-        backcross with the diploid progenitor. This will create a diploid F1 backcross hybrid.</p>
+  <h3>Backcross to triploid (scenario 1)</h3>
+  <p>There are multiple possibilities at this stage. One possibility is that the triploid (3𝑥) F1 hybrid will
+    backcross with the diploid progenitor. This will create a diploid F1 backcross hybrid.</p>
 
-    <div id="backcross_triploid1"></div>
-    <button id="download" onclick="downloadSVG('backcross_triploid1')">Download SVG</button>
+  <div id="backcross_triploid1"></div>
+  <button id="download" onclick="downloadSVG('backcross_triploid1')">Download SVG</button>
 
-    <script src="./download_svg.js"></script>
-    <script src="./phylogeny_family_plot.js" type="module"></script>
-    <script src="./ploidy_distribution_plot.js" type="module"></script>
-    <script src="./add_graphviz_svg_inline.js" type="module"></script>
+  <div id="backcross_triploid2"></div>
+  <button id="download" onclick="downloadSVG('backcross_triploid2')">Download SVG</button>
+
+  <script src="./download_svg.js"></script>
+  <script src="./phylogeny_family_plot.js" type="module"></script>
+  <script src="./ploidy_distribution_plot.js" type="module"></script>
+  <script src="./add_graphviz_svg_inline.js" type="module"></script>
 </body>
 
 </html>
