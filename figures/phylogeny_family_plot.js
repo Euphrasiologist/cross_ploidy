@@ -5,7 +5,7 @@ import * as lw from "https://cdn.jsdelivr.net/gh/euphrasiologist/lwPhylo@1.0.4/d
 
 // get the data from the repo
 // TODO: eventually change this to the live data on GitHub
-const data = d3.csv("../data/Cross_ploidy_families.csv").then((d) => {
+const data = d3.csv("../data/Cross_ploidy_families_update.csv").then((d) => {
   return d;
 });
 
@@ -19,6 +19,7 @@ let assoc_data = data_awaited.map((d) => {
     N_cross: +d.N_cross,
     N_same: +d.N_same,
     N_ploidies: +d.No_Ploidies,
+    p: d["P-value from Chi-Square test"]
   };
 });
 
@@ -192,6 +193,29 @@ group2
   .attr("y", (d, i) => yScale2(d.data.Family))
   .attr("width", (d) => xScale2(d[1]) - xScale2(d[0]))
   .attr("height", yScale2.bandwidth());
+
+// draw the significance text
+
+console.log(series);
+
+// console.log(series[1].map((d) => d[1]))
+
+group2
+  .selectAll("text")
+  .data(series)
+  .join("g")
+  .selectAll("text")
+  .data((d) => d)
+  .join("text")
+  .text(d => {
+    return d.data.p === "" ? "" : +d.data.p > 0.05 ? "~" : "*";
+  })
+  .attr("x", (d) => {
+      console.log(d.data.N_cross + d.data.N_same)
+      return xScale2(d.data.N_cross + d.data.N_same)
+  })
+  .attr("y", (d, i) => yScale2(d.data.Family) + yScale2.bandwidth())
+  .attr("font-size", "15");
 
 // add a group for the y-axis
 group2

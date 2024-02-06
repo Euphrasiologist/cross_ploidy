@@ -169,8 +169,8 @@ expected2 <- expected[genus_family, on = .(Genus)]
 # remove Rubus... all those microspecies!
 expected2 <- expected2[Genus != "Rubus"]
 
-expected_props <- expected2[, .(N_same_ex = sum(N_same, na.rm = TRUE),# / (sum(N_cross, na.rm = TRUE) + sum(N_same, na.rm = TRUE)),
-              N_cross_ex = sum(N_cross, na.rm = TRUE)# / (sum(N_cross, na.rm = TRUE) + sum(N_same, na.rm = TRUE))
+expected_props <- expected2[, .(N_same_ex = sum(N_same, na.rm = TRUE),
+              N_cross_ex = sum(N_cross, na.rm = TRUE)
               ), by = .(Family)]
 observed_props <- assoc_data_updat[, .(Family, N_same, N_cross)]
 
@@ -179,7 +179,20 @@ obs_exp_final <- observed_props[expected_props, on = .(Family)]#[!is.nan(prop_sa
 obs_exp_final <- obs_exp_final[!(N_same == 0 & N_cross == 0 & N_same_ex == 0 & N_cross_ex == 0)]
 obs_exp_final <- obs_exp_final[!is.na(N_same)]
 # remove iridaceae
-obs_exp_final <- obs_exp_final[!Family %in% c("Iridaceae", "Asparagaceae", "Cucurbitaceae", "Campanulaceae", "Cyperaceae", "Liliaceae", "Linaceae", "Haloragaceae", "Grossulariaceae", "Ruppiaceae", "Crassulaceae", "Juncaginaceae", "Urticaceae", "Zosteraceae")]
+obs_exp_final <- obs_exp_final[!Family %in% c("Iridaceae", 
+                                              "Asparagaceae", 
+                                              "Cucurbitaceae", 
+                                              "Campanulaceae", 
+                                              "Cyperaceae", 
+                                              "Liliaceae", 
+                                              "Linaceae", 
+                                              "Haloragaceae", 
+                                              "Grossulariaceae", 
+                                              "Ruppiaceae", 
+                                              "Crassulaceae", 
+                                              "Juncaginaceae", 
+                                              "Urticaceae", 
+                                              "Zosteraceae")]
 
 cross_ploidy_expected <- list()
 
@@ -187,9 +200,8 @@ for(i in 1:nrow(obs_exp_final)) {
   mat <- as.matrix(obs_exp_final[i, -1], nrow = 2, byrow = TRUE)
   test <- chisq.test(c(mat[1], mat[2]), p = c(mat[3] / (mat[3] + mat[4]), mat[4] / (mat[3] + mat[4])))
   if (!is.nan(test$p.value)) {
-      index <- index + 1
       row <- c(obs_exp_final[i], test$p.value)
-      cross_ploidy_expected[[i]] <- row 
+      cross_ploidy_expected[[i]] <- row
     }
 }
 
@@ -200,7 +212,11 @@ f <- function(a, b) {
 }
 
 cross_ploidy_expected[, 
-  test := fifelse(V1 < 0.05, {t1 <- f(N_same, N_cross); t2 <- f(N_same_ex, N_cross_ex); fifelse(t1 > t2, "More same ploidy crosses", "More cross ploidy crosses")}, "Not significant")
+  test := fifelse(
+    V1 < 0.05, {
+      t1 <- f(N_same, N_cross); t2 <- f(N_same_ex, N_cross_ex); fifelse(t1 > t2, "More same ploidy crosses", "More cross ploidy crosses")
+    }, "Not significant"
+  )
 ]
 
 setnames(cross_ploidy_expected, 
@@ -214,5 +230,15 @@ setnames(cross_ploidy_expected,
                  )
          )
 
-fwrite(cross_ploidy_expected, file = "./data/cross_ploidy_expected.tsv", sep = "\t")
+fwrite(cross_ploidy_expected,
+       file = "./data/cross_ploidy_expected.tsv",
+       sep = "\t")
 
+# add the significance from cross_ploidy_expected into the plot data?
+
+assoc_data_update <- cross_ploidy_expected[, .(Family, `P-value from Chi-Square test`)][
+  assoc_data_updat, on = .(Family)
+]
+assoc_data_update[, c("N_cross_prop", "N_same_prop") := NULL]
+
+fwrite(assoc_data_update, "./data/Cross_ploidy_families_update.csv")
