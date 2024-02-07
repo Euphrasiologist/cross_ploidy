@@ -208,14 +208,14 @@ group2
   .data((d) => d)
   .join("text")
   .text(d => {
-    return d.data.p === "" ? "" : +d.data.p > 0.05 ? "~" : "*";
+    return d.data.p === "" ? "" : +d.data.p > 0.05 ? "ns" : "⁎";
   })
-  .attr("x", (d) => {
-      console.log(d.data.N_cross + d.data.N_same)
-      return xScale2(d.data.N_cross + d.data.N_same)
-  })
-  .attr("y", (d, i) => yScale2(d.data.Family) + yScale2.bandwidth())
-  .attr("font-size", "15");
+  .attr("x", (d) => xScale2(d.data.N_cross + d.data.N_same + 1))
+  .attr("y", (d, i) => yScale2(d.data.Family) + yScale2.bandwidth() - 1)
+  .attr("font-family", "sans-serif")
+  .attr("font-size", d => {
+    return d.data.p === "" ? "" : +d.data.p > 0.05 ? "10" : "15";
+});
 
 // add a group for the y-axis
 group2
@@ -244,7 +244,7 @@ group2
   .attr("font-family", "sans-serif")
   .attr("x", 700)
   .attr("y", 40)
-  .style("font-size", 15)
+  .attr("font-size", 20)
   .text("Number of hybrids");
 
 // LEGEND
@@ -256,9 +256,9 @@ const legend = svg
   .attr("transform", `translate(${height / 1.8}, ${width / 18})`);
 
 const size = 30;
-const border_padding = 15;
+const border_padding = 12;
 const item_padding = 5;
-const text_offset = 2;
+const text_offset = 8;
 
 // Boxes
 legend
@@ -288,4 +288,4 @@ legend
   .attr("text-anchor", "left")
   .style("alignment-baseline", "middle")
   .style("font-family", "sans-serif")
-  .style("font-size", 15);
+  .attr("font-size", 20);
