@@ -200,7 +200,13 @@ for(i in 1:nrow(obs_exp_final)) {
   mat <- as.matrix(obs_exp_final[i, -1], nrow = 2, byrow = TRUE)
   test <- chisq.test(c(mat[1], mat[2]), p = c(mat[3] / (mat[3] + mat[4]), mat[4] / (mat[3] + mat[4])))
   if (!is.nan(test$p.value)) {
-      row <- c(obs_exp_final[i], test$p.value)
+      row <- c(obs_exp_final[i], test$p.value, paste0("χ2(",
+                                                      test$parameter, 
+                                                      ") = ", 
+                                                      signif(test$statistic, 3), 
+                                                      ", p = ", 
+                                                      signif(test$p.value, 3)
+                                                    ))
       cross_ploidy_expected[[i]] <- row
     }
 }
@@ -226,6 +232,7 @@ setnames(cross_ploidy_expected,
                  "Expected number of same ploidy crosses",
                  "Expected number of cross ploidy crosses",
                  "P-value from Chi-Square test",
+                 "Chi-Square test",
                  "Cross bias"
                  )
          )
