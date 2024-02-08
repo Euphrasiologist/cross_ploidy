@@ -114,6 +114,12 @@ const svg = d3
   .attr("font-family", "sans-serif")
   .attr("font-size", 10);
 
+// append a white background first
+svg.append("rect")
+    .attr("width", "100%")
+    .attr("height", "100%")
+    .attr("fill", "white");
+
 // create a grouping variable
 
 const group = svg.append("g");

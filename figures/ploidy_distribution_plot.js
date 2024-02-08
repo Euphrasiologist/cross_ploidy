@@ -38,7 +38,8 @@ const svg = d3
   .select("#ploidy_distribution_plot")
   .append("svg")
   .attr("id", "alternativeChart")
-  .attr("viewBox", [0, 0, w, h]);
+  .attr("viewBox", [0, 0, w, h])
+  .style("background", "white");
 
 // scales and axes
 // for all ploidies
@@ -65,7 +66,7 @@ let family_data = d3
   .groups(data, (d) => d.Family)
   // map and return ploidy as array and family
   // slot in d3.histogram   --ploidy levels across species
-  .map(function (d, i) {
+  .map(function(d, i) {
     return {
       Ploidy: d3
         .histogram()
@@ -141,7 +142,7 @@ function setup(FAMILY_DATA) {
     .attr("transform", "translate(22.5,0)")
     .attr("font-size", 16)
     .attr("font-family", "Helvetica")
-    .text(function (d) {
+    .text(function(d) {
       if (d < 23) {
         return d;
       }
