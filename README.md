@@ -2,7 +2,11 @@
 
 Max R. Brown, Richard J. Abbott, Alex D. Twyford
 
-Data and figures for the review paper on cross-ploidy hybridisation.
+Please cite as:
+
+ Brown, M. R., Abbott, R. J., & Twyford, A. D. (2024). The emerging importance of cross-ploidy hybridisation and introgression. Molecular Ecology, 00, e17315. https://doi.org/10.1111/mec.17315 
+
+This paper is dedicated to the memory of Richard J Abbott, a giant in plant sciences and evolutionary biology of plants. Even in retirement, he remained very active and contributed greatly to this paper.
 
 ## Figures
 
